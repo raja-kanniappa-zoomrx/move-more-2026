@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from "react";
 import type { Activity, Filters } from "@/types";
 import { loadAndParseCSV } from "@/data/parser";
-import { INCLUDED_RAW_TYPES } from "@/data/constants";
+import { INCLUDED_RAW_TYPES, CHALLENGE_START, CHALLENGE_END } from "@/data/constants";
 
 export function useData(filters: Filters) {
   const [allActivities, setAllActivities] = useState<Activity[]>([]);
@@ -11,7 +11,14 @@ export function useData(filters: Filters) {
   useEffect(() => {
     loadAndParseCSV()
       .then((data) => {
-        setAllActivities(data.filter((a) => INCLUDED_RAW_TYPES.has(a.type)));
+        setAllActivities(
+          data.filter(
+            (a) =>
+              INCLUDED_RAW_TYPES.has(a.type) &&
+              a.date >= CHALLENGE_START &&
+              a.date <= CHALLENGE_END
+          )
+        );
         setLoading(false);
       })
       .catch((err) => {

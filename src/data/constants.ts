@@ -12,8 +12,8 @@ export const ACTIVITY_ICON_NAMES: Record<ActivityType, string> = {
   Hike: "Mountain",
 };
 
-export const CHALLENGE_START = new Date("2024-08-22");
-export const CHALLENGE_END = new Date("2024-09-30");
+export const CHALLENGE_START = new Date("2026-01-05"); // Monday Jan 5, 2026
+export const CHALLENGE_END = new Date("2026-04-04");   // 90 days later: Apr 4, 2026
 
 export const DAY_LABELS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 

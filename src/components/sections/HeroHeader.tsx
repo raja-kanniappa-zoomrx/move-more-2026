@@ -2,25 +2,16 @@ import { motion } from "motion/react";
 import { format } from "date-fns";
 import { Activity, Calendar, Users } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
+import { CHALLENGE_START, CHALLENGE_END } from "@/data/constants";
 
 interface HeroHeaderProps {
-  minDate: Date | null;
-  maxDate: Date | null;
   athleteCount: number;
 }
 
-export function HeroHeader({ minDate, maxDate, athleteCount }: HeroHeaderProps) {
-  const dateRange =
-    minDate && maxDate
-      ? `${format(minDate, "MMM d")} – ${format(maxDate, "MMM d, yyyy")}`
-      : "Loading…";
-
-  const dayCount =
-    minDate && maxDate
-      ? Math.round((maxDate.getTime() - minDate.getTime()) / (1000 * 60 * 60 * 24)) + 1
-      : 0;
-
-  const isComplete = maxDate ? maxDate < new Date() : false;
+export function HeroHeader({ athleteCount }: HeroHeaderProps) {
+  const dateRange = `${format(CHALLENGE_START, "MMM d")} – ${format(CHALLENGE_END, "MMM d, yyyy")}`;
+  const dayCount = Math.round((CHALLENGE_END.getTime() - CHALLENGE_START.getTime()) / (1000 * 60 * 60 * 24)) + 1;
+  const isComplete = CHALLENGE_END < new Date();
 
   return (
     <motion.div

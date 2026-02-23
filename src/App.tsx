@@ -74,8 +74,6 @@ export default function App() {
     <DashboardShell>
       {/* Hero */}
       <HeroHeader
-        minDate={minDate}
-        maxDate={maxDate}
         athleteCount={allParticipants.length}
       />
 
@@ -165,7 +163,7 @@ export default function App() {
 
       {/* Footer */}
       <div className="text-center py-6 text-xs text-muted-foreground">
-        ZoomRx Move More Challenge 2024 &middot; Data from Strava
+        ZoomRx Move More Challenge 2026 &middot; Data from Strava
       </div>
     </DashboardShell>
   );
