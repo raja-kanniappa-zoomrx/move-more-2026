@@ -9,9 +9,10 @@ import type { ChartConfig } from "@/components/ui/chart";
 
 interface CumulativeProgressProps {
   activities: Activity[];
+  displayNames: Map<string, string>;
 }
 
-export function CumulativeProgress({ activities }: CumulativeProgressProps) {
+export function CumulativeProgress({ activities, displayNames }: CumulativeProgressProps) {
   const participants = useMemo(
     () => [...new Set(activities.map((a) => a.athleteName))],
     [activities]
@@ -48,7 +49,7 @@ export function CumulativeProgress({ activities }: CumulativeProgressProps) {
                 className="w-2.5 h-2.5 rounded-sm shrink-0"
                 style={{ backgroundColor: colorMap[entry.dataKey] ?? entry.color }}
               />
-              <span className="text-muted-foreground truncate">{entry.dataKey}</span>
+              <span className="text-muted-foreground truncate">{displayNames.get(entry.dataKey) ?? entry.dataKey}</span>
             </div>
             <span className="font-medium text-foreground tabular-nums">
               {(entry.value as number).toFixed(1)}

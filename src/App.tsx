@@ -34,7 +34,7 @@ export default function App() {
     activeFilterCount,
   } = useFilters();
 
-  const { allActivities, filteredActivities, allParticipants, loading, error } =
+  const { allActivities, filteredActivities, allParticipants, displayNames, loading, error } =
     useData(filters);
 
   const { minDate, maxDate } = useMemo(() => {
@@ -117,7 +117,7 @@ export default function App() {
           <AvgDistanceChart activities={activities} />
         </SectionWrapper>
         <SectionWrapper delay={0.1}>
-          <CumulativeProgress activities={activities} />
+          <CumulativeProgress activities={activities} displayNames={displayNames} />
         </SectionWrapper>
       </div>
 
@@ -138,7 +138,7 @@ export default function App() {
 
       {/* Heatmap */}
       <SectionWrapper>
-        <ParticipantHeatmap activities={activities} />
+        <ParticipantHeatmap activities={activities} displayNames={displayNames} />
       </SectionWrapper>
 
       {/* Streaks & Trends */}
@@ -153,12 +153,12 @@ export default function App() {
 
       {/* Leaderboard */}
       <SectionWrapper>
-        <Leaderboard activities={activities} />
+        <Leaderboard activities={activities} displayNames={displayNames} />
       </SectionWrapper>
 
       {/* Participant Summary Table */}
       <SectionWrapper>
-        <ParticipantSummaryTable activities={activities} />
+        <ParticipantSummaryTable activities={activities} displayNames={displayNames} />
       </SectionWrapper>
 
       {/* Footer */}

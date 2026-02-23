@@ -7,6 +7,7 @@ import type { Activity } from "@/types";
 
 interface ParticipantHeatmapProps {
   activities: Activity[];
+  displayNames: Map<string, string>;
 }
 
 // Spectrum: blue → teal → green → lime → yellow → orange → red
@@ -42,7 +43,7 @@ const DESCRIPTIONS: Record<View, string> = {
   activeDays: "Same colour scale as Distance. Rows ordered by number of days with any activity recorded.",
 };
 
-export function ParticipantHeatmap({ activities }: ParticipantHeatmapProps) {
+export function ParticipantHeatmap({ activities, displayNames }: ParticipantHeatmapProps) {
   const [view, setView] = useState<View>("distance");
 
   const days = useMemo(() => {
@@ -159,7 +160,7 @@ export function ParticipantHeatmap({ activities }: ParticipantHeatmapProps) {
                     className="flex items-center mb-0.5"
                   >
                     <div className="w-[130px] shrink-0 flex items-center gap-1.5 pr-2">
-                      <span className="text-xs text-foreground truncate">{p.name.split(" ")[0]}</span>
+                      <span className="text-xs text-foreground truncate">{displayNames.get(p.name) ?? p.name.split(" ")[0]}</span>
                       <span className="text-[9px] text-muted-foreground shrink-0">{dayEntries.length}d</span>
                     </div>
                     <div className="flex-1 flex gap-[1px]">
@@ -172,7 +173,7 @@ export function ParticipantHeatmap({ activities }: ParticipantHeatmapProps) {
                             />
                           </TooltipTrigger>
                           <TooltipContent side="top">
-                            {p.name.split(" ")[0]} · {format(new Date(day.dateKey), "MMM d")} · {day.distKm.toFixed(1)} km · {day.count} {day.count === 1 ? "activity" : "activities"}
+                            {displayNames.get(p.name) ?? p.name.split(" ")[0]} · {format(new Date(day.dateKey), "MMM d")} · {day.distKm.toFixed(1)} km · {day.count} {day.count === 1 ? "activity" : "activities"}
                           </TooltipContent>
                         </Tooltip>
                       ))}
@@ -239,7 +240,7 @@ export function ParticipantHeatmap({ activities }: ParticipantHeatmapProps) {
                       className="flex items-center mb-0.5"
                     >
                       <div className="w-[130px] shrink-0 flex items-center gap-1.5 pr-2">
-                        <span className="text-xs text-foreground truncate">{p.name.split(" ")[0]}</span>
+                        <span className="text-xs text-foreground truncate">{displayNames.get(p.name) ?? p.name.split(" ")[0]}</span>
                         <span className="text-[9px] text-muted-foreground shrink-0">{badge}</span>
                       </div>
                       <div className="flex-1 flex gap-[1px]">
@@ -258,7 +259,7 @@ export function ParticipantHeatmap({ activities }: ParticipantHeatmapProps) {
                                 />
                               </TooltipTrigger>
                               <TooltipContent side="top">
-                                {p.name.split(" ")[0]} · {format(days[di], "MMM d")} · {label}
+                                {displayNames.get(p.name) ?? p.name.split(" ")[0]} · {format(days[di], "MMM d")} · {label}
                               </TooltipContent>
                             </Tooltip>
                           );

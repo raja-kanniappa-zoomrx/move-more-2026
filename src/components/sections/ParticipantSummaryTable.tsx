@@ -16,12 +16,14 @@ import { ACTIVITY_COLORS } from "@/data/constants";
 
 interface ParticipantSummaryTableProps {
   activities: Activity[];
+  displayNames: Map<string, string>;
 }
 
 type SortKey = keyof ParticipantSummary;
 
 export function ParticipantSummaryTable({
   activities,
+  displayNames,
 }: ParticipantSummaryTableProps) {
   const [sortKey, setSortKey] = useState<SortKey>("totalActivities");
   const [sortAsc, setSortAsc] = useState(false);
@@ -90,7 +92,7 @@ export function ParticipantSummaryTable({
         <TableBody>
           {sorted.map((row) => (
             <TableRow key={row.name} className="hover:bg-row-highlight">
-              <TableCell className="font-medium">{row.name}</TableCell>
+              <TableCell className="font-medium">{displayNames.get(row.name) ?? row.name}</TableCell>
               <TableCell>{row.totalActivities}</TableCell>
               <TableCell>{row.totalDistanceKm}</TableCell>
               <TableCell>{(row.totalDurationMinutes / 60).toFixed(1)}</TableCell>

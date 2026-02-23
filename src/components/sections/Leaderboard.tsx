@@ -9,6 +9,7 @@ import { PARTICIPANT_COLORS } from "@/data/constants";
 
 interface LeaderboardProps {
   activities: Activity[];
+  displayNames: Map<string, string>;
 }
 
 const rankIcons = [
@@ -17,7 +18,7 @@ const rankIcons = [
   { icon: Award, color: "var(--accent)", bg: "var(--status-warning-bg)", label: "3rd" },
 ];
 
-export function Leaderboard({ activities }: LeaderboardProps) {
+export function Leaderboard({ activities, displayNames }: LeaderboardProps) {
   const leaders = useMemo(() => computeLeaderboard(activities), [activities]);
 
   return (
@@ -68,7 +69,7 @@ export function Leaderboard({ activities }: LeaderboardProps) {
 
               {/* Name + stats */}
               <div className="flex-1 min-w-0">
-                <div className="font-medium text-sm truncate">{p.name}</div>
+                <div className="font-medium text-sm truncate">{displayNames.get(p.name) ?? p.name}</div>
                 <div className="text-xs text-muted-foreground">
                   {p.totalActivities} activities &middot; {p.uniqueDays} days
                 </div>

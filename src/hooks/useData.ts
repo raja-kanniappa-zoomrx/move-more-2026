@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import type { Activity, Filters } from "@/types";
 import { loadAndParseCSV } from "@/data/parser";
 import { INCLUDED_RAW_TYPES, CHALLENGE_START, CHALLENGE_END } from "@/data/constants";
+import { buildDisplayNames } from "@/lib/utils";
 
 export function useData(filters: Filters) {
   const [allActivities, setAllActivities] = useState<Activity[]>([]);
@@ -51,10 +52,16 @@ export function useData(filters: Filters) {
     [allActivities]
   );
 
+  const displayNames = useMemo(
+    () => buildDisplayNames(allParticipants),
+    [allParticipants]
+  );
+
   return {
     allActivities,
     filteredActivities,
     allParticipants,
+    displayNames,
     loading,
     error,
   };
