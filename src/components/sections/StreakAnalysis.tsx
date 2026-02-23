@@ -7,9 +7,10 @@ import { computeStreaks } from "@/data/metrics";
 
 interface StreakAnalysisProps {
   activities: Activity[];
+  displayNames: Map<string, string>;
 }
 
-export function StreakAnalysis({ activities }: StreakAnalysisProps) {
+export function StreakAnalysis({ activities, displayNames }: StreakAnalysisProps) {
   const data = useMemo(() => computeStreaks(activities), [activities]);
 
   const chartConfig = {
@@ -25,10 +26,11 @@ export function StreakAnalysis({ activities }: StreakAnalysisProps) {
           <YAxis
             dataKey="name"
             type="category"
-            width={120}
+            width={90}
             tick={{ fontSize: 11 }}
             tickLine={false}
             axisLine={false}
+            tickFormatter={(v: string) => displayNames.get(v) ?? v}
           />
           <ChartTooltip content={<ChartTooltipContent />} />
           <Bar dataKey="longestStreak" radius={[0, 4, 4, 0]} animationDuration={1200}>

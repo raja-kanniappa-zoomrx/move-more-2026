@@ -7,9 +7,10 @@ import { computeParticipantTotalDistance } from "@/data/metrics";
 
 interface TotalDistanceChartProps {
   activities: Activity[];
+  displayNames: Map<string, string>;
 }
 
-export function TotalDistanceChart({ activities }: TotalDistanceChartProps) {
+export function TotalDistanceChart({ activities, displayNames }: TotalDistanceChartProps) {
   const data = useMemo(() => computeParticipantTotalDistance(activities), [activities]);
 
   const chartConfig = {
@@ -25,10 +26,11 @@ export function TotalDistanceChart({ activities }: TotalDistanceChartProps) {
           <YAxis
             dataKey="name"
             type="category"
-            width={120}
+            width={90}
             tick={{ fontSize: 11 }}
             tickLine={false}
             axisLine={false}
+            tickFormatter={(v: string) => displayNames.get(v) ?? v}
           />
           <ChartTooltip content={<ChartTooltipContent />} />
           <Bar dataKey="value" radius={[0, 4, 4, 0]} animationDuration={1200}>

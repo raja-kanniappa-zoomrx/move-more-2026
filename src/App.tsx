@@ -81,6 +81,7 @@ export default function App() {
       <FilterBar
         filters={filters}
         participants={allParticipants}
+        displayNames={displayNames}
         minDate={minDate}
         maxDate={maxDate}
         onToggleActivityType={toggleActivityType}
@@ -104,17 +105,17 @@ export default function App() {
       {/* Participant Charts Row 1 */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-stretch">
         <SectionWrapper>
-          <UniqueDaysChart activities={activities} />
+          <UniqueDaysChart activities={activities} displayNames={displayNames} />
         </SectionWrapper>
         <SectionWrapper delay={0.1}>
-          <TotalDistanceChart activities={activities} />
+          <TotalDistanceChart activities={activities} displayNames={displayNames} />
         </SectionWrapper>
       </div>
 
       {/* Participant Charts Row 2 */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-stretch">
         <SectionWrapper>
-          <AvgDistanceChart activities={activities} />
+          <AvgDistanceChart activities={activities} displayNames={displayNames} />
         </SectionWrapper>
         <SectionWrapper delay={0.1}>
           <CumulativeProgress activities={activities} displayNames={displayNames} />
@@ -144,7 +145,7 @@ export default function App() {
       {/* Streaks & Trends */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-stretch">
         <SectionWrapper>
-          <StreakAnalysis activities={activities} />
+          <StreakAnalysis activities={activities} displayNames={displayNames} />
         </SectionWrapper>
         <SectionWrapper delay={0.1}>
           <WeekOverWeekTrend activities={activities} />

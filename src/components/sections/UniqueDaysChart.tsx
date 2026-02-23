@@ -7,9 +7,10 @@ import { computeParticipantUniqueDays } from "@/data/metrics";
 
 interface UniqueDaysChartProps {
   activities: Activity[];
+  displayNames: Map<string, string>;
 }
 
-export function UniqueDaysChart({ activities }: UniqueDaysChartProps) {
+export function UniqueDaysChart({ activities, displayNames }: UniqueDaysChartProps) {
   const data = useMemo(() => computeParticipantUniqueDays(activities), [activities]);
 
   const chartConfig = {
@@ -25,10 +26,11 @@ export function UniqueDaysChart({ activities }: UniqueDaysChartProps) {
           <YAxis
             dataKey="name"
             type="category"
-            width={120}
+            width={90}
             tick={{ fontSize: 11 }}
             tickLine={false}
             axisLine={false}
+            tickFormatter={(v: string) => displayNames.get(v) ?? v}
           />
           <ChartTooltip content={<ChartTooltipContent />} />
           <Bar dataKey="value" radius={[0, 4, 4, 0]} animationDuration={1200}>

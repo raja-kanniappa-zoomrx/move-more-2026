@@ -7,9 +7,10 @@ import { computeParticipantAvgDistance } from "@/data/metrics";
 
 interface AvgDistanceChartProps {
   activities: Activity[];
+  displayNames: Map<string, string>;
 }
 
-export function AvgDistanceChart({ activities }: AvgDistanceChartProps) {
+export function AvgDistanceChart({ activities, displayNames }: AvgDistanceChartProps) {
   const data = useMemo(() => computeParticipantAvgDistance(activities), [activities]);
   const avg = useMemo(() => {
     if (data.length === 0) return 0;
@@ -33,6 +34,7 @@ export function AvgDistanceChart({ activities }: AvgDistanceChartProps) {
             angle={-45}
             textAnchor="end"
             height={60}
+            tickFormatter={(v: string) => displayNames.get(v) ?? v}
           />
           <YAxis tick={{ fontSize: 11 }} tickLine={false} axisLine={false} />
           <ChartTooltip content={<ChartTooltipContent />} />

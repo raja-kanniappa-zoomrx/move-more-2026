@@ -17,6 +17,7 @@ import type { ThemeName } from "@/config/themes";
 interface FilterBarProps {
   filters: Filters;
   participants: string[];
+  displayNames: Map<string, string>;
   minDate: Date | null;
   maxDate: Date | null;
   onToggleActivityType: (type: ActivityType) => void;
@@ -32,6 +33,7 @@ interface FilterBarProps {
 export function FilterBar({
   filters,
   participants,
+  displayNames,
   minDate,
   maxDate,
   onToggleActivityType,
@@ -133,7 +135,7 @@ export function FilterBar({
               <SelectItem value="__all__">All Participants</SelectItem>
               {participants.map((p) => (
                 <SelectItem key={p} value={p}>
-                  {p}
+                  {displayNames.get(p) ?? p}
                 </SelectItem>
               ))}
             </SelectContent>
