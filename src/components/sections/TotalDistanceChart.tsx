@@ -17,9 +17,11 @@ export function TotalDistanceChart({ activities, displayNames }: TotalDistanceCh
     value: { label: "Distance (km)", color: "var(--metric-distance)" },
   };
 
+  const chartHeight = Math.max(300, data.length * 24);
+
   return (
     <ChartCard title="Total Distance" description="Cumulative distance per participant (km)">
-      <ChartContainer config={chartConfig} className="h-full min-h-[300px] w-full">
+      <ChartContainer config={chartConfig} className="w-full" style={{ height: chartHeight }}>
         <BarChart data={data} layout="vertical" margin={{ top: 0, right: 50, left: 0, bottom: 0 }}>
           <CartesianGrid strokeDasharray="3 3" horizontal={false} />
           <XAxis type="number" tick={{ fontSize: 11 }} tickLine={false} axisLine={false} />

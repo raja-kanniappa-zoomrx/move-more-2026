@@ -1,5 +1,5 @@
 import { useMemo } from "react";
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, ReferenceLine } from "recharts";
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Cell, LabelList, ReferenceLine } from "recharts";
 import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/ui/chart";
 import { ChartCard } from "@/components/shared/ChartCard";
 import type { Activity } from "@/types";
@@ -21,36 +21,42 @@ export function AvgDistanceChart({ activities, displayNames }: AvgDistanceChartP
     value: { label: "Avg Distance (km)", color: "var(--chart-5)" },
   };
 
+  const chartHeight = Math.max(300, data.length * 24);
+
   return (
     <ChartCard title="Average Distance" description="Average distance per activity for each participant">
-      <ChartContainer config={chartConfig} className="h-full min-h-[300px] w-full">
-        <BarChart data={data} margin={{ top: 10, right: 10, left: 0, bottom: 60 }}>
-          <CartesianGrid strokeDasharray="3 3" vertical={false} />
-          <XAxis
+      <ChartContainer config={chartConfig} className="w-full" style={{ height: chartHeight }}>
+        <BarChart data={data} layout="vertical" margin={{ top: 0, right: 60, left: 0, bottom: 0 }}>
+          <CartesianGrid strokeDasharray="3 3" horizontal={false} />
+          <XAxis type="number" tick={{ fontSize: 11 }} tickLine={false} axisLine={false} />
+          <YAxis
             dataKey="name"
-            tick={{ fontSize: 10 }}
+            type="category"
+            width={90}
+            tick={{ fontSize: 11 }}
             tickLine={false}
             axisLine={false}
-            angle={-45}
-            textAnchor="end"
-            height={60}
             tickFormatter={(v: string) => displayNames.get(v) ?? v}
           />
-          <YAxis tick={{ fontSize: 11 }} tickLine={false} axisLine={false} />
           <ChartTooltip content={<ChartTooltipContent />} />
           <ReferenceLine
-            y={avg}
+            x={avg}
             stroke="var(--accent)"
             strokeDasharray="5 5"
             strokeWidth={1.5}
             label={{ value: `Avg: ${avg} km`, position: "insideTopRight", fontSize: 11, fill: "var(--accent)" }}
           />
-          <Bar
-            dataKey="value"
-            fill="var(--chart-5)"
-            radius={[4, 4, 0, 0]}
-            animationDuration={1200}
-          />
+          <Bar dataKey="value" radius={[0, 4, 4, 0]} animationDuration={1200}>
+            {data.map((_, i) => (
+              <Cell key={i} fill="var(--chart-5)" />
+            ))}
+            <LabelList
+              dataKey="value"
+              position="right"
+              className="fill-foreground text-xs"
+              formatter={(v: number) => `${v} km`}
+            />
+          </Bar>
         </BarChart>
       </ChartContainer>
     </ChartCard>

@@ -17,9 +17,11 @@ export function StreakAnalysis({ activities, displayNames }: StreakAnalysisProps
     longestStreak: { label: "Longest Streak (days)", color: "var(--chart-1)" },
   };
 
+  const chartHeight = Math.max(300, data.length * 24);
+
   return (
     <ChartCard title="Consistency Streaks" description="Longest consecutive active day streaks">
-      <ChartContainer config={chartConfig} className="h-full min-h-[300px] w-full">
+      <ChartContainer config={chartConfig} className="w-full" style={{ height: chartHeight }}>
         <BarChart data={data} layout="vertical" margin={{ top: 0, right: 40, left: 0, bottom: 0 }}>
           <CartesianGrid strokeDasharray="3 3" horizontal={false} />
           <XAxis type="number" tick={{ fontSize: 11 }} tickLine={false} axisLine={false} />
