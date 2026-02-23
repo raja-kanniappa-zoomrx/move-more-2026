@@ -19,10 +19,10 @@ export function ActivityIcon({
   className = "",
   size = 16,
 }: ActivityIconProps) {
-  const Icon = iconMap[type] || Flame;
+  const Icon = iconMap[type];
   return <Icon className={className} size={size} />;
 }
 
 export function getActivityIcon(type: ActivityType): LucideIcon {
-  return iconMap[type] || Flame;
+  return iconMap[type];
 }
