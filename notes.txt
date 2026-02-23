@@ -1,0 +1,5 @@
+TO DO
+------
+1. Keep only walk/run related activities.
+2. apply theme.
+3. in charts where indivudual recored is shown. limit to top 20.

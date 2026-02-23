@@ -1,0 +1,184 @@
+:root {
+  --font-size: 16px;
+  --background: #f2f6eb;
+  --foreground: #1a1f1c;
+  --card: #ffffff;
+  --card-foreground: #1a1f1c;
+  --popover: #ffffff;
+  --popover-foreground: #1a1f1c;
+  --primary: #568265;
+  --primary-foreground: #ffffff;
+  --secondary: #e8f0eb;
+  --secondary-foreground: #568265;
+  --muted: #eef1ef;
+  --muted-foreground: #7a847d;
+  --accent: #fb6e52;
+  --accent-foreground: #ffffff;
+  --destructive: #d94f33;
+  --destructive-foreground: #ffffff;
+  --border: #e0e4e1;
+  --input: transparent;
+  --input-background: #eef1ef;
+  --switch-background: #c5cbc7;
+  --font-weight-medium: 500;
+  --font-weight-normal: 400;
+  --ring: #568265;
+  --primary-dark: #436850;
+  --primary-darkest: #2f4d39;
+  --accent-dark: #e45f45;
+  --muted-text: #5a635d;
+  --placeholder: #a3aba6;
+  --disabled: #b0b7b2;
+  --surface-hover: #e8ebe9;
+  --border-strong: #d5dbd7;
+  --status-success-bg: #d5e3da;
+  --status-success-text: #436850;
+  --status-warning-bg: #fde8e3;
+  --secondary-active: #c2d6c9;
+  --primary-overlay-sm: rgba(86, 130, 101, 0.08);
+  --primary-overlay-md: rgba(86, 130, 101, 0.20);
+  --metric-distance: #3d8fbf;
+  --metric-duration: #7c6bb5;
+  --metric-pace: #d4a843;
+  --metric-complete: #8aab93;
+  --leaderboard-text: #3d4840;
+  --warning: #e68a3a;
+  --warning-bg: #fef6f0;
+  --warning-border: #f5e0ce;
+  --metric-icon-bg: #fdf5e0;
+  --metric-section-bg-warm: #fef7f5;
+  --metric-section-bg-cool: #eef5f0;
+  --metric-divider-gold: #ede3c8;
+  --metric-section-hover: #fef9ed;
+  --metric-slider-track: #e8dbd8;
+  --metric-divider-green: #d9e8dd;
+  --rules-bg: #f7f9f7;
+  --rules-hover: #f0f4f0;
+  --notice-bg: #f7f0ee;
+  --notice-border: #f0ddd9;
+  --notice-text: #a87060;
+  --notice-accent: #c07a2a;
+  --destructive-soft: #e05252;
+  --destructive-soft-bg: #fff5f5;
+  --surface-hover-subtle: #f7f9f5;
+  --surface-hover-warm: #f5f5f5;
+  --cell-unmet: #f5f7f5;
+  --border-subtle: #f0f3f1;
+  --row-highlight: #f2f7f4;
+  --disconnect-bg: #fef2f0;
+  --strava-bg: #fff1ec;
+  --stat-icon-bg-primary: #e8f0eb;
+  --stat-icon-bg-duration: #f0eef8;
+  --stat-icon-bg-distance: #ebf4f9;
+  --stat-icon-bg-warm: #fef3e6;
+  --stat-tile-value: #1a1f1c;
+  --scroll-fade-bg: #f2f6eb;
+  --chart-1: #568265;
+  --chart-2: #fb6e52;
+  --chart-3: #ffce55;
+  --chart-4: #dbf58e;
+  --chart-5: #92c3a4;
+  --radius: 0.75rem;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-input-background: var(--input-background);
+  --color-switch-background: var(--switch-background);
+  --color-ring: var(--ring);
+  --color-primary-dark: var(--primary-dark);
+  --color-primary-darkest: var(--primary-darkest);
+  --color-accent-dark: var(--accent-dark);
+  --color-muted-text: var(--muted-text);
+  --color-placeholder: var(--placeholder);
+  --color-disabled: var(--disabled);
+  --color-surface-hover: var(--surface-hover);
+  --color-border-strong: var(--border-strong);
+  --color-status-success-bg: var(--status-success-bg);
+  --color-status-success-text: var(--status-success-text);
+  --color-status-warning-bg: var(--status-warning-bg);
+  --color-secondary-active: var(--secondary-active);
+  --color-primary-overlay-sm: var(--primary-overlay-sm);
+  --color-primary-overlay-md: var(--primary-overlay-md);
+  --color-metric-distance: var(--metric-distance);
+  --color-metric-duration: var(--metric-duration);
+  --color-metric-pace: var(--metric-pace);
+  --color-metric-complete: var(--metric-complete);
+  --color-leaderboard-text: var(--leaderboard-text);
+  --color-warning: var(--warning);
+  --color-warning-bg: var(--warning-bg);
+  --color-warning-border: var(--warning-border);
+  --color-metric-icon-bg: var(--metric-icon-bg);
+  --color-stat-icon-bg-primary: var(--stat-icon-bg-primary);
+  --color-stat-icon-bg-duration: var(--stat-icon-bg-duration);
+  --color-stat-icon-bg-distance: var(--stat-icon-bg-distance);
+  --color-stat-icon-bg-warm: var(--stat-icon-bg-warm);
+  --color-stat-tile-value: var(--stat-tile-value);
+  --color-row-highlight: var(--row-highlight);
+  --color-border-subtle: var(--border-subtle);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  html {
+    font-size: var(--font-size);
+  }
+
+  h1 {
+    font-size: var(--text-2xl);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+
+  h2 {
+    font-size: var(--text-xl);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+
+  h3 {
+    font-size: var(--text-lg);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+
+  h4 {
+    font-size: var(--text-base);
+    font-weight: var(--font-weight-medium);
+    line-height: 1.5;
+  }
+}
