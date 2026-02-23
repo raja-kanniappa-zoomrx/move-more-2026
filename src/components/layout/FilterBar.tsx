@@ -80,7 +80,7 @@ export function FilterBar({
     )?.label || "All Dates";
 
   return (
-    <div className="sm:sticky sm:top-0 sm:z-10 sm:backdrop-blur-md bg-background/80 border-b border-border py-3 -mx-4 sm:-mx-6 lg:-mx-8 px-4 sm:px-6 lg:px-8">
+    <div className="bg-background/80 border-b border-border py-3 -mx-4 sm:-mx-6 lg:-mx-8 px-4 sm:px-6 lg:px-8">
       <div className="flex flex-col sm:flex-row gap-3 items-start sm:items-center">
         <div className="flex items-center gap-2 min-w-0">
           <span className="text-sm font-medium text-muted-foreground whitespace-nowrap">
