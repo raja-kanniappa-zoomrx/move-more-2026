@@ -303,38 +303,38 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/112684608,/activities/16986373627,Walk,Morning Walk,Bhavya Rukmini,09-01-2026,00:00:00.000+05:30,6.58,,km,01:25:00,,,12:55,4.6,1
 /athletes/112684608,/activities/16975414013,Walk,Morning Walk,Bhavya Rukmini,08-01-2026,00:00:00.000+05:30,6.75,,km,01:23:00,,,12:17,4.9,1
 /athletes/112684608,/activities/16952053613,Walk,Morning Walk,Bhavya Rukmini,06-01-2026,00:00:00.000+05:30,3.46,,km,00:42:15,,,12:12,4.9,1
-/athletes/149076314,/activities/17238983757,Walk,Tere Ishq Mein walk,Deva Michael,31-01-2026,19:25:00.000+05:30,4.14,,km,00:43:54,7,,10:36,5.7,1
-/athletes/149076314,/activities/17233481673,Walk,SU-12,Deva Michael,31-01-2026,08:11:00.000+05:30,2.17,,km,00:24:12,5,,11:09,5.4,1
-/athletes/149076314,/activities/17223765080,Walk,Focused,Deva Michael,30-01-2026,08:40:00.000+05:30,4.02,,km,00:45:57,5,,11:25,5.2,1
-/athletes/149076314,/activities/17212715242,Walk,SU-11,Deva Michael,29-01-2026,08:17:00.000+05:30,2.33,,km,00:28:53,2,,12:23,4.8,1
-/athletes/149076314,/activities/17205239000,Walk,SU-10,Deva Michael,28-01-2026,18:06:00.000+05:30,3.17,,km,00:37:28,5,,11:49,5.1,1
-/athletes/149076314,/activities/17190581304,Walk,Quick one between work,Deva Michael,27-01-2026,12:22:00.000+05:30,2.08,,km,00:24:36,0,,11:49,5.1,1
-/athletes/149076314,/activities/17189573072,Run,Focused,Deva Michael,27-01-2026,08:01:00.000+05:30,3.36,10:37,km,00:35:42,,,10:37,5.6,1
-/athletes/149076314,/activities/17178840001,Walk,Focused,Deva Michael,26-01-2026,08:24:00.000+05:30,5.02,,km,00:57:32,9,,11:27,5.2,1
-/athletes/149076314,/activities/17172728788,Walk,Rainwalk,Deva Michael,25-01-2026,18:26:00.000+05:30,4.09,,km,00:51:18,0,,12:32,4.8,1
-/athletes/149076314,/activities/17156240501,Run,Focused,Deva Michael,24-01-2026,08:24:00.000+05:30,8.11,09:06,km,01:13:00,,,09:00,6.7,1
-/athletes/149076314,/activities/17145960095,Walk,SU-9,Deva Michael,23-01-2026,08:42:00.000+05:30,1.8,,km,00:21:55,2,,12:10,4.9,1
-/athletes/149076314,/activities/17134753329,Walk,Focused,Deva Michael,22-01-2026,07:59:00.000+05:30,5.15,,km,00:59:02,10,,11:27,5.2,1
-/athletes/149076314,/activities/17127473181,Walk,SU-8,Deva Michael,21-01-2026,18:50:00.000+05:30,2.04,,km,00:27:04,0,,13:16,4.5,1
-/athletes/149076314,/activities/17111207651,Walk,SU-7,Deva Michael,20-01-2026,08:58:00.000+05:30,2.54,,km,00:29:38,3,,11:39,5.1,1
-/athletes/149076314,/activities/17103297900,Run,Focused,Deva Michael,19-01-2026,17:48:00.000+05:30,5.01,10:34,km,00:52:58,,,10:34,5.7,1
-/athletes/149076314,/activities/17092320765,Walk,Casual,Deva Michael,18-01-2026,17:23:00.000+05:30,2.55,,km,00:33:07,4,,12:59,4.6,1
-/athletes/149076314,/activities/17088009667,Walk,Light,Deva Michael,18-01-2026,09:14:00.000+05:30,2.55,,km,00:30:00,3,,11:45,5.1,1
-/athletes/149076314,/activities/17080631131,Run,Focused,Deva Michael,17-01-2026,17:22:00.000+05:30,7.02,10:04,km,01:10:00,,,09:58,6,1
-/athletes/149076314,/activities/17065760127,Walk,SU-6,Deva Michael,16-01-2026,08:56:00.000+05:30,2.24,,km,00:27:54,5,,12:27,4.8,1
-/athletes/149076314,/activities/17054501788,Run,Focused,Deva Michael,15-01-2026,08:33:00.000+05:30,5.7,09:27,km,00:53:51,,,09:26,6.4,1
-/athletes/149076314,/activities/17046823274,Walk,SU-5,Deva Michael,14-01-2026,18:33:00.000+05:30,3.03,,km,00:35:36,0,,11:44,5.1,1
-/athletes/149076314,/activities/17033917388,Run,Focused,Deva Michael,13-01-2026,17:24:00.000+05:30,4.27,09:19,km,00:39:47,,,09:19,6.4,1
-/athletes/149076314,/activities/17030298870,Walk,SU-4,Deva Michael,13-01-2026,08:43:00.000+05:30,2.24,,km,00:27:33,2,,12:17,4.9,1
-/athletes/149076314,/activities/17024537555,Walk,Hectic day but Showed up,Deva Michael,12-01-2026,21:55:00.000+05:30,2.79,,km,00:40:44,0,,14:35,4.1,1
-/athletes/149076314,/activities/17007473232,Run,Casual,Deva Michael,11-01-2026,08:56:00.000+05:30,2.09,09:33,km,00:19:58,,,09:33,6.3,1
+/athletes/149076314,/activities/16941307140,Walk,Morning Walk,Deva Michael,05-01-2026,09:11:00.000+05:30,3.03,,km,00:26:25,4,,08:43,6.9,1
+/athletes/149076314,/activities/16952131818,Walk,Showed up - SU1,Deva Michael,06-01-2026,08:43:00.000+05:30,1.87,,km,00:21:15,0,,11:21,5.3,1
+/athletes/149076314,/activities/16967589054,Walk,SU2,Deva Michael,07-01-2026,17:56:00.000+05:30,2.18,,km,00:29:51,0,,13:41,4.4,1
+/athletes/149076314,/activities/16975153373,Walk,Progress after SUs,Deva Michael,08-01-2026,08:02:00.000+05:30,3.15,,km,00:33:38,2,,10:40,5.6,1
+/athletes/149076314,/activities/16986223970,Run,"No Jananayagan, so running.",Deva Michael,09-01-2026,08:51:00.000+05:30,3.08,10:00,km,00:30:49,,,10:00,6,1
 /athletes/149076314,/activities/17000252246,Walk,Casual,Deva Michael,10-01-2026,18:12:00.000+05:30,2.38,,km,00:27:34,0,,11:34,5.2,1
 /athletes/149076314,/activities/16996090265,Run,Progress,Deva Michael,10-01-2026,08:35:00.000+05:30,4.06,08:35,km,00:34:51,,,08:35,7,1
-/athletes/149076314,/activities/16986223970,Run,"No Jananayagan, so running.",Deva Michael,09-01-2026,08:51:00.000+05:30,3.08,10:00,km,00:30:49,,,10:00,6,1
-/athletes/149076314,/activities/16975153373,Walk,Progress after SUs,Deva Michael,08-01-2026,08:02:00.000+05:30,3.15,,km,00:33:38,2,,10:40,5.6,1
-/athletes/149076314,/activities/16967589054,Walk,SU2,Deva Michael,07-01-2026,17:56:00.000+05:30,2.18,,km,00:29:51,0,,13:41,4.4,1
-/athletes/149076314,/activities/16952131818,Walk,Showed up - SU1,Deva Michael,06-01-2026,08:43:00.000+05:30,1.87,,km,00:21:15,0,,11:21,5.3,1
-/athletes/149076314,/activities/16941307140,Walk,Morning Walk,Deva Michael,05-01-2026,09:11:00.000+05:30,3.03,,km,00:26:25,4,,08:43,6.9,1
+/athletes/149076314,/activities/17007473232,Run,Casual,Deva Michael,11-01-2026,08:56:00.000+05:30,2.09,09:33,km,00:19:58,,,09:33,6.3,1
+/athletes/149076314,/activities/17024537555,Walk,Hectic day but Showed up,Deva Michael,12-01-2026,21:55:00.000+05:30,2.79,,km,00:40:44,0,,14:35,4.1,1
+/athletes/149076314,/activities/17033917388,Run,Focused,Deva Michael,13-01-2026,17:24:00.000+05:30,4.27,09:19,km,00:39:47,,,09:19,6.4,1
+/athletes/149076314,/activities/17030298870,Walk,SU-4,Deva Michael,13-01-2026,08:43:00.000+05:30,2.24,,km,00:27:33,2,,12:17,4.9,1
+/athletes/149076314,/activities/17046823274,Walk,SU-5,Deva Michael,14-01-2026,18:33:00.000+05:30,3.03,,km,00:35:36,0,,11:44,5.1,1
+/athletes/149076314,/activities/17054501788,Run,Focused,Deva Michael,15-01-2026,08:33:00.000+05:30,5.7,09:27,km,00:53:51,,,09:26,6.4,1
+/athletes/149076314,/activities/17065760127,Walk,SU-6,Deva Michael,16-01-2026,08:56:00.000+05:30,2.24,,km,00:27:54,5,,12:27,4.8,1
+/athletes/149076314,/activities/17080631131,Run,Focused,Deva Michael,17-01-2026,17:22:00.000+05:30,7.02,10:04,km,01:10:00,,,09:58,6,1
+/athletes/149076314,/activities/17092320765,Walk,Casual,Deva Michael,18-01-2026,17:23:00.000+05:30,2.55,,km,00:33:07,4,,12:59,4.6,1
+/athletes/149076314,/activities/17088009667,Walk,Light,Deva Michael,18-01-2026,09:14:00.000+05:30,2.55,,km,00:30:00,3,,11:45,5.1,1
+/athletes/149076314,/activities/17103297900,Run,Focused,Deva Michael,19-01-2026,17:48:00.000+05:30,5.01,10:34,km,00:52:58,,,10:34,5.7,1
+/athletes/149076314,/activities/17111207651,Walk,SU-7,Deva Michael,20-01-2026,08:58:00.000+05:30,2.54,,km,00:29:38,3,,11:39,5.1,1
+/athletes/149076314,/activities/17127473181,Walk,SU-8,Deva Michael,21-01-2026,18:50:00.000+05:30,2.04,,km,00:27:04,0,,13:16,4.5,1
+/athletes/149076314,/activities/17134753329,Walk,Focused,Deva Michael,22-01-2026,07:59:00.000+05:30,5.15,,km,00:59:02,10,,11:27,5.2,1
+/athletes/149076314,/activities/17145960095,Walk,SU-9,Deva Michael,23-01-2026,08:42:00.000+05:30,1.8,,km,00:21:55,2,,12:10,4.9,1
+/athletes/149076314,/activities/17156240501,Run,Focused,Deva Michael,24-01-2026,08:24:00.000+05:30,8.11,09:06,km,01:13:00,,,09:00,6.7,1
+/athletes/149076314,/activities/17172728788,Walk,Rainwalk,Deva Michael,25-01-2026,18:26:00.000+05:30,4.09,,km,00:51:18,0,,12:32,4.8,1
+/athletes/149076314,/activities/17178840001,Walk,Focused,Deva Michael,26-01-2026,08:24:00.000+05:30,5.02,,km,00:57:32,9,,11:27,5.2,1
+/athletes/149076314,/activities/17190581304,Walk,Quick one between work,Deva Michael,27-01-2026,12:22:00.000+05:30,2.08,,km,00:24:36,0,,11:49,5.1,1
+/athletes/149076314,/activities/17189573072,Run,Focused,Deva Michael,27-01-2026,08:01:00.000+05:30,3.36,10:37,km,00:35:42,,,10:37,5.6,1
+/athletes/149076314,/activities/17205239000,Walk,SU-10,Deva Michael,28-01-2026,18:06:00.000+05:30,3.17,,km,00:37:28,5,,11:49,5.1,1
+/athletes/149076314,/activities/17212715242,Walk,SU-11,Deva Michael,29-01-2026,08:17:00.000+05:30,2.33,,km,00:28:53,2,,12:23,4.8,1
+/athletes/149076314,/activities/17223765080,Walk,Focused,Deva Michael,30-01-2026,08:40:00.000+05:30,4.02,,km,00:45:57,5,,11:25,5.2,1
+/athletes/149076314,/activities/17238983757,Walk,Tere Ishq Mein walk,Deva Michael,31-01-2026,19:25:00.000+05:30,4.14,,km,00:43:54,7,,10:36,5.7,1
+/athletes/149076314,/activities/17233481673,Walk,SU-12,Deva Michael,31-01-2026,08:11:00.000+05:30,2.17,,km,00:24:12,5,,11:09,5.4,1
 /athletes/149406036,/activities/17207762963,Walk,Evening Walk,Gayathri A,26-01-2026,00:00:00.000+05:30,2.77,,km,00:45:11,7,,16:18,3.7,1
 /athletes/149406036,/activities/17182632773,Walk,Evening walk,Gayathri A,26-01-2026,00:00:00.000+05:30,2.79,,km,00:46:55,,,16:48,3.6,1
 /athletes/199450722,/activities/17058315017,Walk,Evening Walk,K P Harish,15-01-2026,18:36:00.000+05:30,1.31,,km,00:15:10,5,,11:34,5.2,1
@@ -946,7 +946,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/108978639,/activities/17260502745,Run,Evening Run,Suriya Dileepan,02-02-2026,00:00:00.000+05:30,7.01,05:30,km,00:38:35,,,05:30,10.9,1
 /athletes/149559036,/activities/17260291270,Walk,Evening Walk,Ayush Shukla,02-02-2026,00:00:00.000+05:30,2.24,,km,00:25:27,,,11:21,5.3,1
 /athletes/6311222,/activities/17260245598,Run,Evening Run,Aravind Vijayasarathy,02-02-2026,00:00:00.000+05:30,5.77,06:15,km,00:36:07,,,06:15,9.6,1
-/athletes/149076314,/activities/17259957971,Walk,In the middle of 600 kms drive,Deva Michael,02-02-2026,00:00:00.000+05:30,1.34,,km,00:20:59,2,,15:39,3.8,1
+/athletes/149076314,/activities/17250240363,Run,Focused,Deva Michael,01-02-2026,00:00:00.000+05:30,10.11,09:15,km,01:33:00,,,09:11,6.5,1
 /athletes/34316388,/activities/17259892482,Run,Afternoon Run,Raja K,02-02-2026,17:58:00.000+05:30,3.03,10:18,km,00:31:16,,,10:19,5.8,1
 /athletes/149075264,/activities/17259846404,Run,Afternoon Run,Mehak Sharma,02-02-2026,00:00:00.000+05:30,0.47,,km,00:03:51,11,,08:11,7.3,1
 /athletes/164769037,/activities/17258020869,Walk,Aw,Aravind Kulasekhar Vankayala,02-02-2026,00:00:00.000+05:30,2.53,,km,00:29:47,,,11:46,5.1,1
@@ -965,7 +965,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/165741895,/activities/17252064940,Walk,Day 28/90,Hemanath Gopal,01-02-2026,00:00:00.000+05:30,1.51,,km,00:31:55,0,,21:08,2.8,1
 /athletes/149143255,/activities/17251602645,Walk,An Atmosphere Walk,Bhavana B,01-02-2026,20:11:00.000+05:30,1.67,,km,00:22:17,,,13:20,4.5,1
 /athletes/126713398,/activities/17252967949,Walk,Day 27.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,01-02-2026,00:00:00.000+05:30,2.51,,km,00:34:01,,,13:33,4.4,1
-/athletes/149076314,/activities/17250240363,Run,Focused,Deva Michael,01-02-2026,00:00:00.000+05:30,10.11,09:15,km,01:33:00,,,09:11,6.5,1
+/athletes/149076314,/activities/17259957971,Walk,In the middle of 600 kms drive,Deva Michael,02-02-2026,00:00:00.000+05:30,1.34,,km,00:20:59,2,,15:39,3.8,1
 /athletes/154999907,/activities/17253297515,Walk,Evening walk,Akash Thiagarajan,01-02-2026,00:00:00.000+05:30,7.5,,km,01:47:00,0,,14:16,4.2,1
 /athletes/82294600,/activities/17250065249,Run,Evening Run,roojith suresh,01-02-2026,00:00:00.000+05:30,13.5,04:51,km,01:05:00,,,04:48,12.5,1
 /athletes/34748435,/activities/17250049001,Walk,Evening Walk,Vivek Rajendran,01-02-2026,00:00:00.000+05:30,2.7,,km,00:29:01,,,10:44,5.6,1
@@ -1030,7 +1030,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/165741895,/activities/17339484239,Walk,Day 36/90,Hemanath Gopal,09-02-2026,00:00:00.000+05:30,2.38,,km,00:38:32,10,,16:11,3.7,1
 /athletes/108978639,/activities/17339710930,Run,Evening Run,Suriya Dileepan,09-02-2026,00:00:00.000+05:30,5.36,05:46,km,00:30:58,,,05:46,10.4,1
 /athletes/189123923,/activities/17339009779,Walk,Day 31/90,Marivishnu R,09-02-2026,00:00:00.000+05:30,3.26,,km,00:43:20,19,,13:17,4.5,1
-/athletes/149076314,/activities/17338206812,Walk,SU-19,Deva Michael,09-02-2026,00:00:00.000+05:30,1.83,,km,00:26:04,0,,14:14,4.2,1
+/athletes/149076314,/activities/17283844956,Walk,SU-14,Deva Michael,04-02-2026,00:00:00.000+05:30,2.04,,km,00:32:12,0,,15:47,3.8,1
 /athletes/82294600,/activities/17338072995,Run,Afternoon Run,roojith suresh,09-02-2026,00:00:00.000+05:30,5.01,05:56,km,00:29:46,,,05:56,10.1,1
 /athletes/134023953,/activities/17336801902,Walk,Afternoon Walk,Vignesh Sivashankar Bala,09-02-2026,00:00:00.000+05:30,2.1,,km,00:25:29,10,,12:08,4.9,1
 /athletes/126713398,/activities/17336894220,Walk,Day 35.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,09-02-2026,00:00:00.000+05:30,2.23,,km,00:29:42,,,13:19,4.5,1
@@ -1047,7 +1047,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/164769037,/activities/17329727525,Walk,Nw,Aravind Kulasekhar Vankayala,08-02-2026,00:00:00.000+05:30,0.9,,km,00:12:17,,,13:38,4.4,1
 /athletes/134023953,/activities/17329326375,Walk,Evening Walk,Vignesh Sivashankar Bala,08-02-2026,00:00:00.000+05:30,2.35,,km,00:28:29,7,,12:07,5,1
 /athletes/75711980,/activities/17346537021,Run,Evening Run,Sricharan Sriram,08-02-2026,00:00:00.000+05:30,1.57,05:44,km,00:09:02,,,05:45,10.4,1
-/athletes/149076314,/activities/17329021419,Walk,SU-18,Deva Michael,08-02-2026,00:00:00.000+05:30,3.02,,km,00:44:18,2,,14:40,4.1,1
+/athletes/149076314,/activities/17296990708,Walk,SU-15,Deva Michael,05-02-2026,00:00:00.000+05:30,1.74,,km,00:25:13,0,,14:29,4.1,1
 /athletes/134023953,/activities/17328731511,Walk,Evening Walk,Vignesh Sivashankar Bala,08-02-2026,00:00:00.000+05:30,2.39,,km,00:28:29,3,,11:55,5,1
 /athletes/164765713,/activities/17328676796,Walk,Morning Walk,M Gopi Sai Pramod,08-02-2026,00:00:00.000+05:30,4.67,,km,01:07:00,,,14:20,4.2,1
 /athletes/149143255,/activities/17328649220,Walk,Welcome to Madrasapattinam <3,Bhavana B,08-02-2026,17:00:00.000+05:30,2.29,,km,00:29:01,,,12:40,4.7,1
@@ -1076,7 +1076,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/75711980,/activities/17317863827,Walk,Evening Walk,Sricharan Sriram,07-02-2026,00:00:00.000+05:30,4.58,,km,00:32:12,24,,07:01,8.5,1
 /athletes/6311222,/activities/17323401663,Run,Morning Run,Aravind Vijayasarathy,08-02-2026,00:00:00.000+05:30,15.61,07:51,km,02:02:00,,,07:48,7.7,1
 /athletes/75711980,/activities/17317470983,Run,Evening Run,Sricharan Sriram,07-02-2026,00:00:00.000+05:30,1.44,05:34,km,00:08:01,,,05:34,10.8,1
-/athletes/149076314,/activities/17317209269,Walk,SU-17,Deva Michael,07-02-2026,00:00:00.000+05:30,4.1,,km,00:56:38,5,,13:48,4.3,1
+/athletes/149076314,/activities/17305874972,Walk,SU-16,Deva Michael,06-02-2026,00:00:00.000+05:30,1.34,,km,00:20:42,0,,15:26,3.9,1
 /athletes/34316388,/activities/17317030624,Run,Evening Walk,Raja K,07-02-2026,18:29:00.000+05:30,2.02,10:41,km,00:21:35,,,10:41,5.6,1
 /athletes/6311222,/activities/17336327341,Walk,Lunch Walk,Aravind Vijayasarathy,09-02-2026,00:00:00.000+05:30,2.2,,km,00:22:11,,,10:04,6,1
 /athletes/149143255,/activities/17315751079,Walk,One last time in Cochin :(,Bhavana B,07-02-2026,16:13:00.000+05:30,1.74,,km,00:24:30,,,14:04,4.3,1
@@ -1101,7 +1101,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/149143255,/activities/17306901790,Walk,A Broadway Walk,Bhavana B,06-02-2026,17:59:00.000+05:30,2.34,,km,00:29:40,,,12:40,4.7,1
 /athletes/6311222,/activities/17335524652,Walk,Morning Walk,Aravind Vijayasarathy,09-02-2026,00:00:00.000+05:30,1.62,,km,00:17:57,,,11:04,5.4,1
 /athletes/34316388,/activities/17306072137,Run,Evening Walk,Raja K,06-02-2026,18:43:00.000+05:30,2.03,11:37,km,00:23:39,,,11:39,5.2,1
-/athletes/149076314,/activities/17305874972,Walk,SU-16,Deva Michael,06-02-2026,00:00:00.000+05:30,1.34,,km,00:20:42,0,,15:26,3.9,1
+/athletes/149076314,/activities/17317209269,Walk,SU-17,Deva Michael,07-02-2026,00:00:00.000+05:30,4.1,,km,00:56:38,5,,13:48,4.3,1
 /athletes/164769037,/activities/17304412879,Walk,Ew,Aravind Kulasekhar Vankayala,06-02-2026,00:00:00.000+05:30,5.67,,km,01:05:00,,,11:27,5.2,1
 /athletes/164765713,/activities/17305033973,Walk,Today walk,M Gopi Sai Pramod,06-02-2026,00:00:00.000+05:30,7.39,,km,01:31:00,,,12:18,4.9,1
 /athletes/134023953,/activities/17304505789,Walk,Afternoon Walk,Vignesh Sivashankar Bala,06-02-2026,00:00:00.000+05:30,1.29,,km,00:17:21,0,,13:26,4.5,1
@@ -1113,7 +1113,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/34748435,/activities/17298095097,Walk,Night Walk,Vivek Rajendran,05-02-2026,00:00:00.000+05:30,0.78,,km,00:19:20,,,24:47:00,2.4,1
 /athletes/164765936,/activities/17297506299,Walk,Almost forgot this app exists,Shantanu M,05-02-2026,22:38:00.000+05:30,2.56,,km,00:30:34,,,11:56,5,1
 /athletes/164777816,/activities/17297086633,Walk,Aaptiv Walking: Walk 'n Run with Raj,Ashley Blanchard,05-02-2026,00:00:00.000+05:30,1.61,,km,00:16:00,0,,09:56,6,1
-/athletes/149076314,/activities/17296990708,Walk,SU-15,Deva Michael,05-02-2026,00:00:00.000+05:30,1.74,,km,00:25:13,0,,14:29,4.1,1
+/athletes/149076314,/activities/17329021419,Walk,SU-18,Deva Michael,08-02-2026,00:00:00.000+05:30,3.02,,km,00:44:18,2,,14:40,4.1,1
 /athletes/164777816,/activities/17296925357,Run,Aaptiv Treadmill: Incline Intensity with Raj,Ashley Blanchard,05-02-2026,00:00:00.000+05:30,4.82,06:36,km,00:31:54,,,06:37,9.1,1
 /athletes/89559032,/activities/17296778745,Walk,Night Walk,Saranya Perumal,05-02-2026,00:00:00.000+05:30,2.01,,km,00:25:55,,,12:53,4.7,1
 /athletes/149143255,/activities/17296643601,Walk,Nadappin Nayagi😎,Bhavana B,05-02-2026,21:16:00.000+05:30,1.19,,km,00:19:27,,,16:20,3.7,1
@@ -1145,7 +1145,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/149075101,/activities/17284543699,Walk,Day 2:Evening Walk,Pallavi Pandey,04-02-2026,00:00:00.000+05:30,4.81,,km,00:55:23,,,11:30,5.2,1
 /athletes/189123923,/activities/17284295008,Walk,Day 30/90,Marivishnu R,04-02-2026,00:00:00.000+05:30,4.31,,km,00:58:17,24,,13:31,4.4,1
 /athletes/203306086,/activities/17283914764,Walk,Evening Walk,Tushar Anand,04-02-2026,00:00:00.000+05:30,2.09,,km,00:38:07,13,,18:14,3.3,1
-/athletes/149076314,/activities/17283844956,Walk,SU-14,Deva Michael,04-02-2026,00:00:00.000+05:30,2.04,,km,00:32:12,0,,15:47,3.8,1
+/athletes/149076314,/activities/17338206812,Walk,SU-19,Deva Michael,09-02-2026,00:00:00.000+05:30,1.83,,km,00:26:04,0,,14:14,4.2,1
 /athletes/199595164,/activities/17283299579,Walk,Afternoon Walk,Elango Subramaniam,04-02-2026,00:00:00.000+05:30,2.71,,km,00:31:04,11,,11:27,5.2,1
 /athletes/126713398,/activities/17291328759,Walk,Day 30.3,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,04-02-2026,00:00:00.000+05:30,1.38,,km,00:20:30,,,14:51,4,1
 /athletes/164769037,/activities/17281291793,Walk,Aw,Aravind Kulasekhar Vankayala,04-02-2026,00:00:00.000+05:30,5.94,,km,01:03:00,,,10:36,5.7,1
@@ -1162,7 +1162,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/41447383,/activities/17424361432,Walk,Afternoon Walk,Vijay Krishnan Ganesan,17-02-2026,00:00:00.000+05:30,2.13,,km,00:23:25,,,10:59,5.5,1
 /athletes/6311222,/activities/17351041757,Walk,Evening Walk,Aravind Vijayasarathy,10-02-2026,00:00:00.000+05:30,5.34,,km,00:57:58,,,10:51,5.5,1
 /athletes/6311222,/activities/17359496589,Walk,Lunch Walk,Aravind Vijayasarathy,11-02-2026,00:00:00.000+05:30,2.2,,km,00:25:09,,,11:25,5.2,1
-/athletes/149076314,/activities/17423308130,Walk,Focused,Deva Michael,17-02-2026,08:41:00.000+05:30,3.13,,km,00:36:04,2,,11:31,5.2,1
+/athletes/149076314,/activities/17346745591,Walk,SU-20,Deva Michael,10-02-2026,09:20:00.000+05:30,3.72,,km,00:44:18,6,,11:54,5,1
 /athletes/164769037,/activities/17423247078,Walk,Mw,Aravind Kulasekhar Vankayala,17-02-2026,00:00:00.000+05:30,5.74,,km,01:14:00,,,12:53,4.7,1
 /athletes/41447383,/activities/17423104530,Walk,Walk with kids,Vijay Krishnan Ganesan,17-02-2026,00:00:00.000+05:30,0.96,,km,00:16:21,0,,17:01,3.5,1
 /athletes/41447383,/activities/17423025262,Walk,Morning Walk,Vijay Krishnan Ganesan,17-02-2026,00:00:00.000+05:30,2.04,,km,00:17:29,0,,08:34,7,1
@@ -1188,8 +1188,8 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/34748435,/activities/17416047458,Walk,Evening Walk,Vivek Rajendran,16-02-2026,00:00:00.000+05:30,2.81,,km,00:31:15,,,11:07,5.4,1
 /athletes/41447383,/activities/17413167949,Walk,Lunch Walk,Vijay Krishnan Ganesan,16-02-2026,00:00:00.000+05:30,4.05,,km,00:43:40,0,,10:46,5.6,1
 /athletes/82294600,/activities/17412378437,Run,Morning Run,roojith suresh,16-02-2026,00:00:00.000+05:30,10.01,05:53,km,00:58:57,,,05:53,10.2,1
-/athletes/149076314,/activities/17427368593,Walk,Continuing the day,Deva Michael,17-02-2026,17:36:00.000+05:30,3.46,,km,00:48:20,2,13:58,4.3,,1
-/athletes/149076314,/activities/17412341973,Run,Focused,Deva Michael,16-02-2026,08:19:00.000+05:30,7.15,08:46,km,01:02:00,,,08:40,6.9,1
+/athletes/149076314,/activities/17363958797,Walk,Continued the day,Deva Michael,11-02-2026,21:30:00.000+05:30,1.63,,km,00:20:37,0,,12:38,4.7,1
+/athletes/149076314,/activities/17358247605,Walk,SU-21,Deva Michael,11-02-2026,07:56:00.000+05:30,1.82,,km,00:25:23,0,,13:56,4.3,1
 /athletes/149084864,/activities/17412269951,Walk,Monday morning,Jaidiya Jeyakar,16-02-2026,00:00:00.000+05:30,2,,km,00:23:37,,,11:48,5.1,1
 /athletes/164769037,/activities/17412249925,Walk,Mw,Aravind Kulasekhar Vankayala,16-02-2026,00:00:00.000+05:30,5.05,,km,01:00:00,,,11:52,5,1
 /athletes/165741895,/activities/17409094378,Walk,Day 42/90,Hemanath Gopal,15-02-2026,00:00:00.000+05:30,8.48,,km,01:44:00,0,,12:15,4.9,1
@@ -1203,10 +1203,10 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/75711980,/activities/17406761459,Walk,Evening Walk,Sricharan Sriram,15-02-2026,00:00:00.000+05:30,2.28,,km,00:23:07,7,,10:08,5.9,1
 /athletes/75711980,/activities/17406496167,Run,4 packets uncle chips is not carbo loading,Sricharan Sriram,15-02-2026,00:00:00.000+05:30,2.39,05:44,km,00:13:43,,,05:44,10.5,1
 /athletes/7402903,/activities/17405932790,Walk,2% of goal️ completed! - Oura,Yannin Puig,15-02-2026,00:00:00.000+05:30,1.41,,km,00:20:29,0,,14:31,4.1,1
-/athletes/149076314,/activities/17405291433,Walk,Focused,Deva Michael,15-02-2026,17:04:00.000+05:30,5.23,,km,01:02:00,10,,11:51,5.1,1
+/athletes/149076314,/activities/17373233828,Walk,Continued the day,Deva Michael,12-02-2026,17:44:00.000+05:30,3.45,,km,00:44:16,2,,12:49,4.7,1
 /athletes/149143255,/activities/17405810625,Walk,⭐️💲☕️,Bhavana B,15-02-2026,17:19:00.000+05:30,0.95,,km,00:12:04,,,12:42,4.7,1
 /athletes/203306086,/activities/17402426328,Walk,Afternoon Walk,Tushar Anand,15-02-2026,00:00:00.000+05:30,1.77,,km,00:28:27,250,,16:04,3.7,1
-/athletes/149076314,/activities/17401396924,Walk,SU-25,Deva Michael,15-02-2026,09:00:00.000+05:30,1.39,,km,00:19:31,0,,14:02,4.3,1
+/athletes/149076314,/activities/17369732314,Walk,SU-22,Deva Michael,12-02-2026,08:48:00.000+05:30,3.07,,km,00:38:28,2,,12:31,4.8,1
 /athletes/41447383,/activities/17401352269,Walk,Walk with kids,Vijay Krishnan Ganesan,15-02-2026,00:00:00.000+05:30,1.83,,km,00:28:11,2,,15:24,3.9,1
 /athletes/164769037,/activities/17401287357,Walk,Mw,Aravind Kulasekhar Vankayala,15-02-2026,00:00:00.000+05:30,5.58,,km,00:58:41,,,10:31,5.7,1
 /athletes/41447383,/activities/17401210110,Walk,Morning Walk,Vijay Krishnan Ganesan,15-02-2026,00:00:00.000+05:30,1.86,,km,00:18:11,0,,09:46,6.1,1
@@ -1233,7 +1233,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/34748435,/activities/17393160463,Walk,Afternoon Walk,Vivek Rajendran,14-02-2026,00:00:00.000+05:30,1.88,,km,00:19:06,,,10:09,5.9,1
 /athletes/82294600,/activities/17391275451,Run,Long Base Run,roojith suresh,14-02-2026,00:00:00.000+05:30,16.01,05:56,km,01:35:00,,,05:56,10.1,1
 /athletes/165741895,/activities/17390588830,Walk,Day 41/90,Hemanath Gopal,14-02-2026,00:00:00.000+05:30,2.63,,km,00:38:46,10,,14:44,4.1,1
-/athletes/149076314,/activities/17390467823,Walk,SU-24,Deva Michael,14-02-2026,09:15:00.000+05:30,4.03,,km,00:49:46,3,,12:20,4.9,1
+/athletes/149076314,/activities/17385537898,Walk,SU-23,Deva Michael,13-02-2026,21:24:00.000+05:30,1.99,,km,00:26:43,0,,13:25,4.5,1
 /athletes/164769037,/activities/17390270716,Walk,Mw,Aravind Kulasekhar Vankayala,14-02-2026,00:00:00.000+05:30,5.51,,km,01:07:00,,,12:09,4.9,1
 /athletes/126713398,/activities/17390302422,Run,Morning Run,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,14-02-2026,00:00:00.000+05:30,0.6,10:29,km,00:06:18,,,10:30,5.7,1
 /athletes/12910308,/activities/17389979563,Run,Base Run,Sunil Sasidharan,14-02-2026,00:00:00.000+05:30,6.14,10:04,km,01:01:00,,,09:56,6,1
@@ -1243,7 +1243,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/89559032,/activities/17386228342,Walk,Night Walk,Saranya Perumal,13-02-2026,00:00:00.000+05:30,3,,km,00:34:15,0,,11:24,5.3,1
 /athletes/149075101,/activities/17386181251,Walk,Night Walk,Pallavi Pandey,13-02-2026,00:00:00.000+05:30,5.03,,km,01:00:00,,,11:55,5,1
 /athletes/164765936,/activities/17385733228,Walk,Walking around Kolkata with a sprained ankle,Shantanu M,13-02-2026,22:06:00.000+05:30,0.55,,km,00:07:14,,,13:09,4.6,1
-/athletes/149076314,/activities/17385537898,Walk,SU-23,Deva Michael,13-02-2026,21:24:00.000+05:30,1.99,,km,00:26:43,0,,13:25,4.5,1
+/athletes/149076314,/activities/17390467823,Walk,SU-24,Deva Michael,14-02-2026,09:15:00.000+05:30,4.03,,km,00:49:46,3,,12:20,4.9,1
 /athletes/203306086,/activities/17385430387,Walk,Evening Walk,Tushar Anand,13-02-2026,00:00:00.000+05:30,0.79,,km,00:18:35,2,,23:31,2.6,1
 /athletes/189123923,/activities/17384986603,Walk,Day 34/90,Marivishnu R,13-02-2026,00:00:00.000+05:30,3.5,,km,00:53:14,16,,15:12,3.9,1
 /athletes/108978639,/activities/17385027806,Run,Evening Run,Suriya Dileepan,13-02-2026,00:00:00.000+05:30,8.03,05:23,km,00:43:11,,,05:22,11.2,1
@@ -1272,14 +1272,14 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/125149455,/activities/17373942765,Walk,Evening Walk,Neeraja R,12-02-2026,00:00:00.000+05:30,2.79,,km,00:33:07,,,11:52,5.1,1
 /athletes/199653449,/activities/17374066593,Walk,Evening Walk,Aravin Takshan K K,12-02-2026,00:00:00.000+05:30,0.82,,km,00:11:20,,,13:49,4.3,1
 /athletes/203306086,/activities/17373654558,Walk,Evening Walk,Tushar Anand,12-02-2026,00:00:00.000+05:30,2.13,,km,00:39:46,13,,18:40,3.2,1
-/athletes/149076314,/activities/17373233828,Walk,Continued the day,Deva Michael,12-02-2026,17:44:00.000+05:30,3.45,,km,00:44:16,2,,12:49,4.7,1
+/athletes/149076314,/activities/17405291433,Walk,Focused,Deva Michael,15-02-2026,17:04:00.000+05:30,5.23,,km,01:02:00,10,,11:51,5.1,1
 /athletes/165644455,/activities/17374430161,Walk,Morning Walk,Linsey Matthews Amundson,12-02-2026,00:00:00.000+05:30,6.53,,km,01:07:00,,,10:15,5.8,1
 /athletes/109053854,/activities/17380631116,Run,Afternoon Run,Srinath S,12-02-2026,16:30:00.000+05:30,0.39,30:09:00,km,00:11:51,,,30:23:00,2,1
 /athletes/41447383,/activities/17371285743,Walk,Post-lunch Girivalam,Vijay Krishnan Ganesan,12-02-2026,00:00:00.000+05:30,2.81,,km,00:23:45,12,,08:27,7.1,1
 /athletes/126713398,/activities/17372528953,Walk,Day 38.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,12-02-2026,00:00:00.000+05:30,2.21,,km,00:27:44,42,,12:32,4.8,1
 /athletes/203306086,/activities/17370435320,Walk,Lunch Walk,Tushar Anand,12-02-2026,00:00:00.000+05:30,3.75,,km,01:04:00,12,,17:03,3.5,1
 /athletes/6311222,/activities/17401646035,Run,Morning Run,Aravind Vijayasarathy,15-02-2026,00:00:00.000+05:30,5.03,07:38,km,00:38:30,,,07:39,7.8,1
-/athletes/149076314,/activities/17369732314,Walk,SU-22,Deva Michael,12-02-2026,08:48:00.000+05:30,3.07,,km,00:38:28,2,,12:31,4.8,1
+/athletes/149076314,/activities/17401396924,Walk,SU-25,Deva Michael,15-02-2026,09:00:00.000+05:30,1.39,,km,00:19:31,0,,14:02,4.3,1
 /athletes/164769037,/activities/17369584947,Walk,Mw,Aravind Kulasekhar Vankayala,12-02-2026,00:00:00.000+05:30,5.31,,km,01:05:00,,,12:14,4.9,1
 /athletes/82294600,/activities/17369489962,Run,Brick Run,roojith suresh,12-02-2026,00:00:00.000+05:30,5.01,05:37,km,00:28:09,,,05:37,10.7,1
 /athletes/199595164,/activities/17369438677,Walk,Morning Walk,Elango Subramaniam,12-02-2026,00:00:00.000+05:30,1.68,,km,00:20:41,8,,12:18,4.9,1
@@ -1288,7 +1288,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/89559032,/activities/17366098634,Walk,Night Walk,Saranya Perumal,11-02-2026,00:00:00.000+05:30,4,,km,00:51:13,0,,12:48,4.7,1
 /athletes/134023953,/activities/17364802000,Walk,Evening Walk,Vignesh Sivashankar Bala,11-02-2026,00:00:00.000+05:30,8.48,,km,01:37:00,30,,11:26,5.2,1
 /athletes/165741895,/activities/17364765065,Walk,Evening walk,Hemanath Gopal,11-02-2026,00:00:00.000+05:30,2.72,,km,00:42:43,9,,15:42,3.8,1
-/athletes/149076314,/activities/17363958797,Walk,Continued the day,Deva Michael,11-02-2026,21:30:00.000+05:30,1.63,,km,00:20:37,0,,12:38,4.7,1
+/athletes/149076314,/activities/17412341973,Run,Focused,Deva Michael,16-02-2026,08:19:00.000+05:30,7.15,08:46,km,01:02:00,,,08:40,6.9,1
 /athletes/199138675,/activities/17363806196,Walk,Night Walk,Vaibhav Patil,11-02-2026,00:00:00.000+05:30,2.66,,km,00:28:37,14,,10:45,5.6,1
 /athletes/149143255,/activities/17363911710,Walk,Brain Fog😶‍🌫️,Bhavana B,11-02-2026,21:09:00.000+05:30,1.84,,km,00:23:16,,,12:38,4.7,1
 /athletes/203470011,/activities/17363428076,Walk,Evening Walk,Kaushal Bansal,11-02-2026,00:00:00.000+05:30,1.67,,km,00:24:59,4,,14:57,4,1
@@ -1303,7 +1303,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/6311222,/activities/17423479807,Walk,Morning Walk,Aravind Vijayasarathy,17-02-2026,00:00:00.000+05:30,1.58,,km,00:17:29,,,11:03,5.4,1
 /athletes/164769037,/activities/17358419672,Walk,Mw,Aravind Kulasekhar Vankayala,11-02-2026,00:00:00.000+05:30,5.26,,km,01:04:00,,,12:10,4.9,1
 /athletes/82294600,/activities/17358312438,Run,Morning Run,roojith suresh,11-02-2026,00:00:00.000+05:30,10.42,06:09,km,01:04:00,,,06:08,9.8,1
-/athletes/149076314,/activities/17358247605,Walk,SU-21,Deva Michael,11-02-2026,07:56:00.000+05:30,1.82,,km,00:25:23,0,,13:56,4.3,1
+/athletes/149076314,/activities/17423308130,Walk,Focused,Deva Michael,17-02-2026,08:41:00.000+05:30,3.13,,km,00:36:04,2,,11:31,5.2,1
 /athletes/165741895,/activities/17358219782,Walk,Day 38/90,Hemanath Gopal,11-02-2026,00:00:00.000+05:30,3.04,,km,00:38:38,11,,12:42,4.7,1
 /athletes/41447383,/activities/17358189226,Walk,Morning Walk,Vijay Krishnan Ganesan,11-02-2026,00:00:00.000+05:30,3.98,,km,00:43:22,0,,10:53,5.5,1
 /athletes/164777816,/activities/17355594154,Walk,Aaptiv Walking: Power Up Your Walk with John,Ashley Blanchard,10-02-2026,00:00:00.000+05:30,1.61,,km,00:26:35,0,,16:30,3.6,1
@@ -1317,7 +1317,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/6311222,/activities/17422739945,Run,Morning Run,Aravind Vijayasarathy,17-02-2026,00:00:00.000+05:30,3.6,07:05,km,00:25:31,,,07:05,8.5,1
 /athletes/165406158,/activities/17350999822,Run,Morning Run,Nikhil Chopra,10-02-2026,08:20:00.000+05:30,0.28,25s,km,00:00:07,,,00:24,144,1
 /athletes/165406158,/activities/17350995760,Run,Morning Run,Nikhil Chopra,10-02-2026,08:20:00.000+05:30,6.46,06:57,km,00:44:53,,,06:56,8.6,1
-/athletes/149076314,/activities/17346745591,Walk,SU-20,Deva Michael,10-02-2026,09:20:00.000+05:30,3.72,,km,00:44:18,6,,11:54,5,1
+/athletes/149076314,/activities/17427368593,Walk,Continuing the day,Deva Michael,17-02-2026,17:36:00.000+05:30,3.46,,km,00:48:20,2,13:58,4.3,,1
 /athletes/165406158,/activities/17345974052,Walk,Evening Walk,Nikhil Chopra,09-02-2026,20:20:00.000+05:30,0.11,,km,00:02:02,0,,18:29,3.2,1
 /athletes/165406158,/activities/17345972059,Walk,Evening Walk,Nikhil Chopra,09-02-2026,20:19:00.000+05:30,2.69,,km,00:32:06,,,11:55,5,1
 /athletes/107226106,/activities/17452946017,Walk,Night walk,Winston .,19-02-2026,00:00:00.000+05:30,2.63,,km,00:31:11,3,,11:51,5.1,1
@@ -1335,7 +1335,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/149367005,/activities/17450452547,Run,Evening Run,Bhavya Rukmini,19-02-2026,00:00:00.000+05:30,3.02,08:59,km,00:27:07,,,08:58,6.7,1
 /athletes/6311222,/activities/17427797710,Walk,Evening Walk,Aravind Vijayasarathy,17-02-2026,00:00:00.000+05:30,5.17,,km,00:53:08,,,10:16,5.8,1
 /athletes/165644455,/activities/17453062859,Hike,Morning Hike,Linsey Matthews Amundson,19-02-2026,00:00:00.000+05:30,1.13,,km,00:14:53,0,,13:10,4.6,1
-/athletes/149076314,/activities/17450100211,Walk,Focused,Deva Michael,19-02-2026,17:47:00.000+05:30,5.06,,km,00:59:58,7,,11:51,5.1,1
+/athletes/149076314,/activities/17438338896,Walk,Focused,Deva Michael,18-02-2026,16:20:00.000+05:30,5.06,,km,01:02:00,5,,12:15,4.9,1
 /athletes/149084864,/activities/17449845328,Walk,Thursday evening,Jaidiya Jeyakar,19-02-2026,00:00:00.000+05:30,2,,km,00:24:16,,,12:07,4.9,1
 /athletes/165644455,/activities/17449454252,Walk,Morning Walk,Linsey Matthews Amundson,19-02-2026,00:00:00.000+05:30,4.6,,km,00:46:04,,,10:00,6,1
 /athletes/15732479,/activities/17450507692,Walk,Slow,Ankita Sarmah,19-02-2026,00:00:00.000+05:30,1.01,,km,00:27:38,,,27:21:00,2.2,1
@@ -1364,7 +1364,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/149084864,/activities/17439020253,Walk,Wednesday evening,Jaidiya Jeyakar,18-02-2026,00:00:00.000+05:30,2,,km,00:24:13,,,12:06,5,1
 /athletes/6311222,/activities/17436235606,Walk,Afternoon Walk,Aravind Vijayasarathy,18-02-2026,00:00:00.000+05:30,2.23,,km,00:23:26,,,10:30,5.7,1
 /athletes/15732479,/activities/17438400207,Walk,Afternoon Walk,Ankita Sarmah,18-02-2026,00:00:00.000+05:30,1.64,,km,00:29:07,,,17:45,3.4,1
-/athletes/149076314,/activities/17438338896,Walk,Focused,Deva Michael,18-02-2026,16:20:00.000+05:30,5.06,,km,01:02:00,5,,12:15,4.9,1
+/athletes/149076314,/activities/17450100211,Walk,Focused,Deva Michael,19-02-2026,17:47:00.000+05:30,5.06,,km,00:59:58,7,,11:51,5.1,1
 /athletes/134023953,/activities/17436601368,Walk,Afternoon Walk,Vignesh Sivashankar Bala,18-02-2026,00:00:00.000+05:30,2.16,,km,00:26:57,12,,12:28,4.8,1
 /athletes/126713398,/activities/17439832710,Walk,Day 44.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,18-02-2026,00:00:00.000+05:30,2.33,,km,00:25:11,,,10:48,5.6,1
 /athletes/6311222,/activities/17435450836,Walk,Morning Walk,Aravind Vijayasarathy,18-02-2026,00:00:00.000+05:30,2.02,,km,00:20:33,,,10:10,5.9,1
@@ -1487,7 +1487,6 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/199140685,/activities/17267117108,Walk,Good Morning 🌞,Vishwa B,03-02-2026,06:01:00.000+05:30,1.85,,km,00:24:58,8,,13:29,4.4,
 /athletes/199140685,/activities/17256180159,Walk,Morning Walk 🌞,Vishwa B,02-02-2026,07:09:00.000+05:30,1.61,,km,00:22:35,4,,14:01,4.3,
 /athletes/199140685,/activities/17250692757,Walk,Done for the day,Vishwa B,01-02-2026,17:01:00.000+05:30,2.96,,km,00:39:13,9,,13:14,4.5,
-/athletes/165406158,/activities/17490407858,Walk,Night Walk,Nikhil Chopra,22-02-2026,23:05:00.000+05:30,0.64,,km,00:09:07,5,,14:14,4.2,
 /athletes/165406158,/activities/17490077357,Run,Evening Run,Nikhil Chopra,22-02-2026,20:54:00.000+05:30,0.43,02:37,km,00:01:08,,,02:38,22.8,
 /athletes/112099775,/activities/17487144550,Walk,Day 48,Apoorv Jain,22-02-2026,00:00:00.000+05:30,1.74,,km,00:32:03,0,,18:25,3.3,
 /athletes/164777816,/activities/17486489998,Run,Aaptiv Treadmill: Hike to the Top with Casey,Ashley Blanchard,22-02-2026,00:00:00.000+05:30,3.21,12:39,km,00:40:42,,,12:40,4.7,
@@ -1503,7 +1502,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/82294600,/activities/17483817733,Run,Evening Run,roojith suresh,22-02-2026,00:00:00.000+05:30,12.02,05:52,km,01:10:00,,,05:49,10.3,
 /athletes/189123923,/activities/17483376772,Walk,Afternoon Walk,Marivishnu R,22-02-2026,00:00:00.000+05:30,2.46,,km,00:39:09,12,,15:54,3.8,
 /athletes/34748435,/activities/17482455307,Walk,Afternoon Walk,Vivek Rajendran,22-02-2026,00:00:00.000+05:30,1.2,,km,00:17:34,,,14:38,4.1,
-/athletes/149076314,/activities/17482319107,Walk,SU-27,Deva Michael,22-02-2026,16:51:00.000+05:30,1.32,,km,00:20:20,0,,15:24,3.9,
+/athletes/149076314,/activities/17460603845,Walk,Focused,Deva Michael,20-02-2026,17:27:00.000+05:30,4.28,,km,00:50:59,9,,11:54,5,
 /athletes/34748435,/activities/17481695370,Walk,Afternoon Walk,Vivek Rajendran,22-02-2026,00:00:00.000+05:30,1.3,,km,00:18:15,,,14:02,4.3,
 /athletes/34748435,/activities/17481269506,Walk,Afternoon Walk,Vivek Rajendran,22-02-2026,00:00:00.000+05:30,1,,km,00:15:06,,,15:05,4,
 /athletes/164769037,/activities/17478813602,Walk,Mw,Aravind Kulasekhar Vankayala,22-02-2026,00:00:00.000+05:30,5.04,,km,01:02:00,,,12:18,4.9,
@@ -1524,14 +1523,14 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/126713398,/activities/17478972736,Walk,Evening Walk,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,21-02-2026,00:00:00.000+05:30,1.84,,km,00:25:44,,,13:59,4.3,
 /athletes/75711980,/activities/17472429559,Walk,Evening Walk,Sricharan Sriram,21-02-2026,00:00:00.000+05:30,4.12,,km,00:39:50,24,,09:40,6.2,
 /athletes/134023953,/activities/17472110661,Walk,Evening Walk,Vignesh Sivashankar Bala,21-02-2026,00:00:00.000+05:30,1.23,,km,00:19:59,2,,16:14,3.7,
-/athletes/149076314,/activities/17471747808,Run,Focused,Deva Michael,21-02-2026,17:27:00.000+05:30,7.06,09:15,km,01:05:00,,,09:12,6.5,
+/athletes/149076314,/activities/17457333039,Walk,Focused,Deva Michael,20-02-2026,08:57:00.000+05:30,4.17,,km,00:43:34,5,,10:26,5.7,
 /athletes/6311222,/activities/17478508363,Run,Evening Run,Aravind Vijayasarathy,21-02-2026,00:00:00.000+05:30,2.32,07:20,km,00:17:02,,,07:20,8.2,
 /athletes/41447383,/activities/17470265097,Walk,Afternoon Walk,Vijay Krishnan Ganesan,21-02-2026,00:00:00.000+05:30,4.3,,km,00:50:30,,,11:44,5.1,
 /athletes/199140685,/activities/17468619137,Walk,Way to Mall,Vishwa B,21-02-2026,13:54:00.000+05:30,1.72,,km,00:24:15,5,,14:05,4.3,
 /athletes/149143255,/activities/17468618640,Walk,Cheesecake Walk 🍰,Bhavana B,21-02-2026,13:01:00.000+05:30,1.84,,km,00:29:25,,,15:59,3.8,
 /athletes/126713398,/activities/17470886090,Walk,Afternoon Walk,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,21-02-2026,00:00:00.000+05:30,1.72,,km,00:29:03,,,16:53,3.6,
 /athletes/203306086,/activities/17468042757,Walk,Lunch Walk,Tushar Anand,21-02-2026,00:00:00.000+05:30,3.21,,km,01:03:00,13,,19:37,3.1,
-/athletes/149076314,/activities/17467610638,Walk,SU-26,Deva Michael,21-02-2026,09:18:00.000+05:30,5.25,,km,01:04:00,7,,12:11,4.9,
+/athletes/149076314,/activities/17471747808,Run,Focused,Deva Michael,21-02-2026,17:27:00.000+05:30,7.06,09:15,km,01:05:00,,,09:12,6.5,
 /athletes/165406158,/activities/17467517058,Run,Night Run,Nikhil Chopra,20-02-2026,23:11:00.000+05:30,0.96,05:59,km,00:05:47,,,06:01,10,
 /athletes/165406158,/activities/17467581325,Walk,Night Walk,Nikhil Chopra,20-02-2026,22:42:00.000+05:30,1.95,,km,00:24:00,,,12:18,4.9,
 /athletes/164769037,/activities/17467391171,Walk,Mw,Aravind Kulasekhar Vankayala,21-02-2026,00:00:00.000+05:30,5.34,,km,01:08:00,,,12:44,4.7,
@@ -1549,15 +1548,14 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/199140685,/activities/17461899560,Walk,After Dinner Walk,Vishwa B,20-02-2026,18:36:00.000+05:30,1.96,,km,00:27:15,3,,13:54,4.3,
 /athletes/203306086,/activities/17461742685,Walk,Evening Walk,Tushar Anand,20-02-2026,00:00:00.000+05:30,4.34,,km,01:13:00,17,,16:49,3.6,
 /athletes/165741895,/activities/17461654491,Walk,Day 47/90,Hemanath Gopal,20-02-2026,00:00:00.000+05:30,2.97,,km,00:35:20,14,,11:53,5,
-/athletes/199140685,/activities/17460670913,Walk,Walk to grab Coffee,Vishwa B,20-02-2026,18:15:00.000+05:30,0.45,,km,00:05:19,3,,11:48,5.1,
-/athletes/149076314,/activities/17460603845,Walk,Focused,Deva Michael,20-02-2026,17:27:00.000+05:30,4.28,,km,00:50:59,9,,11:54,5,
+/athletes/149076314,/activities/17467610638,Walk,SU-26,Deva Michael,21-02-2026,09:18:00.000+05:30,5.25,,km,01:04:00,7,,12:11,4.9,
 /athletes/6311222,/activities/17462832847,Run,Afternoon Run,Aravind Vijayasarathy,20-02-2026,00:00:00.000+05:30,8.77,07:24,km,01:04:00,,,07:17,8.2,
 /athletes/189123923,/activities/17460161978,Walk,Afternoon Walk,Marivishnu R,20-02-2026,00:00:00.000+05:30,1.86,,km,00:26:01,14,,13:59,4.3,
 /athletes/134023953,/activities/17458594085,Walk,Afternoon Walk,Vignesh Sivashankar Bala,20-02-2026,00:00:00.000+05:30,2.18,,km,00:26:04,6,,11:57,5,
 /athletes/6311222,/activities/17460993516,Walk,Lunch Walk,Aravind Vijayasarathy,20-02-2026,00:00:00.000+05:30,2.25,,km,00:25:19,,,11:15,5.3,
 /athletes/203306086,/activities/17457986623,Walk,Lunch Walk,Tushar Anand,20-02-2026,00:00:00.000+05:30,3.04,,km,00:56:23,13,,18:32,3.2,
 /athletes/41447383,/activities/17457387545,Walk,Morning Walk,Vijay Krishnan Ganesan,20-02-2026,00:00:00.000+05:30,4.14,,km,00:38:52,,,09:23,6.4,
-/athletes/149076314,/activities/17457333039,Walk,Focused,Deva Michael,20-02-2026,08:57:00.000+05:30,4.17,,km,00:43:34,5,,10:26,5.7,
+/athletes/149076314,/activities/17482319107,Walk,SU-27,Deva Michael,22-02-2026,16:51:00.000+05:30,1.32,,km,00:20:20,0,,15:24,3.9,
 /athletes/164769037,/activities/17457195417,Walk,Mw,Aravind Kulasekhar Vankayala,20-02-2026,00:00:00.000+05:30,5.43,,km,01:07:00,,,12:20,4.9,
 /athletes/15732479,/activities/17457534769,Walk,Cooling off walk on my favourite route,Ankita Sarmah,20-02-2026,00:00:00.000+05:30,2.04,,km,00:28:41,,,14:03,4.3,
 /athletes/154999907,/activities/17457074296,Run,Nike Run: Interval Run Session,Akash Thiagarajan,20-02-2026,08:03:00.000+05:30,2.8,07:18,km,00:20:29,,,07:18,8.2,
@@ -1584,7 +1582,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/15732479,/activities/17526009416,Walk,Morning Walk,Ankita Sarmah,26-02-2026,00:00:00.000+05:30,2.91,,km,00:36:42,,,12:36,4.8,
 /athletes/165741895,/activities/17525854151,Walk,Day 53/90,Hemanath Gopal,26-02-2026,00:00:00.000+05:30,2.27,,km,00:27:24,9,,12:04,5,
 /athletes/164769037,/activities/17525820582,Walk,Mw,Aravind Kulasekhar Vankayala,26-02-2026,00:00:00.000+05:30,5.46,,km,00:56:26,,,10:20,5.8,
-/athletes/149076314,/activities/17525714067,Walk,SU-30,Deva Michael,26-02-2026,07:49:00.000+05:30,1.5,,km,00:20:47,0,,13:51,4.3,
+/athletes/149076314,/activities/17493455205,Walk,Tired but Focused,Deva Michael,23-02-2026,16:51:00.000+05:30,5.24,,km,01:05:00,5,,12:24,4.8,
 /athletes/12910308,/activities/17525489318,Run,Base Run + 1 k walk,Sunil Sasidharan,26-02-2026,00:00:00.000+05:30,5.38,10:30,km,00:56:36,,,10:31,5.7,
 /athletes/165406158,/activities/17525417876,Walk,Evening Walk,Nikhil Chopra,25-02-2026,20:20:00.000+05:30,1.65,,km,00:22:40,,,13:44,4.4,
 /athletes/165406158,/activities/17524553399,Run,Evening Run,Nikhil Chopra,25-02-2026,18:21:00.000+05:30,0.05,01:10,km,00:00:04,,,01:19,45,
@@ -1600,7 +1598,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/164777816,/activities/17518256093,Walk,"Aaptiv Walking: Breathe In, Breathe Outside with Jaime",Ashley Blanchard,25-02-2026,00:00:00.000+05:30,4.82,,km,00:29:52,0,,06:11,9.7,
 /athletes/164777816,/activities/17517937756,Walk,Aaptiv Walking: Walk Down Memory Lane with John,Ashley Blanchard,25-02-2026,00:00:00.000+05:30,1.61,,km,00:26:29,0,,16:26,3.6,
 /athletes/6311222,/activities/17517851443,Walk,Afternoon Walk,Aravind Vijayasarathy,25-02-2026,00:00:00.000+05:30,4.78,,km,00:53:34,,,11:12,5.4,
-/athletes/149076314,/activities/17517844754,Walk,SU-29,Deva Michael,25-02-2026,17:36:00.000+05:30,6.19,,km,01:17:00,12,,12:26,4.8,
+/athletes/149076314,/activities/17490363304,Walk,Focused,Deva Michael,23-02-2026,08:52:00.000+05:30,3.23,,km,00:39:44,3,,12:18,4.9,
 /athletes/149084864,/activities/17517717565,Walk,Wednesyayy walk,Jaidiya Jeyakar,25-02-2026,00:00:00.000+05:30,2.07,,km,00:24:41,,,11:55,5,
 /athletes/34316388,/activities/17517682155,Run,Afternoon Run,Raja K,25-02-2026,00:00:00.000+05:30,4.46,10:07,km,00:45:12,,,10:08,5.9,
 /athletes/165644455,/activities/17517218540,Walk,Morning Walk,Linsey Matthews Amundson,25-02-2026,00:00:00.000+05:30,6.52,,km,01:06:00,,,10:07,5.9,
@@ -1657,7 +1655,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/189123923,/activities/17494292345,Walk,Evening Walk,Marivishnu R,23-02-2026,00:00:00.000+05:30,3.53,,km,00:51:50,8,,14:41,4.1,
 /athletes/149084864,/activities/17493803908,Walk,Monday evening,Jaidiya Jeyakar,23-02-2026,00:00:00.000+05:30,2.01,,km,00:25:09,,,12:30,4.8,
 /athletes/89559032,/activities/17496524174,Walk,Afternoon Walk,Saranya Perumal,23-02-2026,00:00:00.000+05:30,6,,km,01:01:00,0,,10:09,5.9,
-/athletes/149076314,/activities/17493455205,Walk,Tired but Focused,Deva Michael,23-02-2026,16:51:00.000+05:30,5.24,,km,01:05:00,5,,12:24,4.8,
+/athletes/149076314,/activities/17517844754,Walk,SU-29,Deva Michael,25-02-2026,17:36:00.000+05:30,6.19,,km,01:17:00,12,,12:26,4.8,
 /athletes/199140685,/activities/17493155327,Walk,Evening Walk,Vishwa B,23-02-2026,16:56:00.000+05:30,2.72,,km,00:31:02,2,,11:24,5.3,
 /athletes/6311222,/activities/17491944395,Walk,Afternoon Walk,Aravind Vijayasarathy,23-02-2026,00:00:00.000+05:30,2.02,,km,00:21:16,,,10:31,5.7,
 /athletes/134023953,/activities/17491648033,Walk,Afternoon Walk,Vignesh Sivashankar Bala,23-02-2026,00:00:00.000+05:30,1.75,,km,00:21:42,4,,12:24,4.8,
@@ -1666,7 +1664,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/82294600,/activities/17490463405,Run,Morning Run,roojith suresh,23-02-2026,00:00:00.000+05:30,8.05,05:49,km,00:46:54,,,05:49,10.3,
 /athletes/6311222,/activities/17490429412,Run,Morning Run,Aravind Vijayasarathy,23-02-2026,00:00:00.000+05:30,8.21,07:31,km,01:01:00,,,07:25,8.1,
 /athletes/165406158,/activities/17490407858,Walk,Night Walk,Nikhil Chopra,22-02-2026,23:05:00.000+05:30,0.64,,km,00:09:07,5,,14:14,4.2,
-/athletes/149076314,/activities/17490363304,Walk,Focused,Deva Michael,23-02-2026,08:52:00.000+05:30,3.23,,km,00:39:44,3,,12:18,4.9,
+/athletes/149076314,/activities/17525714067,Walk,SU-30,Deva Michael,26-02-2026,07:49:00.000+05:30,1.5,,km,00:20:47,0,,13:51,4.3,
 /athletes/164769037,/activities/17490269192,Walk,Mw,Aravind Kulasekhar Vankayala,23-02-2026,00:00:00.000+05:30,5.42,,km,01:04:00,,,11:48,5.1,
 /athletes/202063033,/activities/17490216767,Run,23&02-26,Neville Kumar,23-02-2026,00:00:00.000+05:30,1.39,,km,00:10:45,39,,07:44,7.8,
 /athletes/165741895,/activities/17490207667,Walk,Day 50/90,Hemanath Gopal,23-02-2026,00:00:00.000+05:30,2.12,,km,00:26:13,9,,12:21,4.9,
@@ -1688,7 +1686,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/207602158,/activities/17564654415,Walk,Evening walk,VIKRAMADITYA SHRIVASTAVA,01-03-2026,00:00:00.000+05:30,4.11,,km,00:41:41,17,,10:08,5.9,
 /athletes/34316388,/activities/17564768522,Run,Afternoon Run,Raja K,01-03-2026,00:00:00.000+05:30,4.02,10:12,km,00:41:00,,,10:11,5.9,
 /athletes/149406036,/activities/17564562618,Walk,Evening walk,Gayathri A,01-03-2026,00:00:00.000+05:30,1.65,,km,00:21:11,,,12:50,4.7,
-/athletes/149076314,/activities/17563641776,Walk,SU-33,Deva Michael,01-03-2026,16:42:00.000+05:30,4.02,,km,00:47:03,8,,11:42,5.1,
+/athletes/149076314,/activities/17541435224,Walk,SU-31,Deva Michael,27-02-2026,18:54:00.000+05:30,2.09,,km,00:29:54,0,,14:18,4.2,
 /athletes/199140685,/activities/17563402361,Walk,Evening Walk,Vishwa B,01-03-2026,16:49:00.000+05:30,1.61,,km,00:24:04,0,,14:56,4,
 /athletes/126713398,/activities/17563242839,Walk,Day 56.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,01-03-2026,00:00:00.000+05:30,5.03,,km,01:03:00,,,12:31,4.8,
 /athletes/6311222,/activities/17563242418,Run,Afternoon Run,Aravind Vijayasarathy,01-03-2026,00:00:00.000+05:30,10.13,06:41,km,01:07:00,,,06:36,9.1,
@@ -1712,7 +1710,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/203306086,/activities/17553993143,Walk,Evening Walk,Tushar Anand,28-02-2026,00:00:00.000+05:30,0.22,,km,00:01:58,0,,08:56,6.7,
 /athletes/89559032,/activities/17553823451,Walk,Evening Walk,Saranya Perumal,28-02-2026,00:00:00.000+05:30,5,,km,01:01:00,0,,12:11,4.9,
 /athletes/203306086,/activities/17552941756,Walk,Lunch Walk,Tushar Anand,28-02-2026,00:00:00.000+05:30,9.41,,km,02:18:00,52,,14:39,4.1,
-/athletes/149076314,/activities/17552859386,Walk,Beach,Deva Michael,28-02-2026,18:31:00.000+05:30,1.52,,km,00:26:46,10,,17:36,3.4,
+/athletes/149076314,/activities/17537457312,Walk,Recovering but can't stop,Deva Michael,27-02-2026,08:29:00.000+05:30,6.06,,km,00:56:02,7,,09:14,6.5,
 /athletes/34748435,/activities/17552702417,Walk,Evening Walk,Vivek Rajendran,28-02-2026,00:00:00.000+05:30,1.16,,km,00:22:52,,,19:42,3,
 /athletes/165741895,/activities/17552943462,Walk,Evening walk,Hemanath Gopal,28-02-2026,00:00:00.000+05:30,3.71,,km,00:52:40,10,,14:11,4.2,
 /athletes/126713398,/activities/17552559954,Walk,Day 55.2,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,28-02-2026,00:00:00.000+05:30,3.06,,km,00:38:19,,,12:31,4.8,
@@ -1723,7 +1721,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/34748435,/activities/17549062526,Walk,Afternoon Walk,Vivek Rajendran,28-02-2026,00:00:00.000+05:30,0.76,,km,00:12:10,,,16:00,3.7,
 /athletes/199140685,/activities/17548469256,Walk,Afternoon walk,Vishwa B,28-02-2026,11:31:00.000+05:30,1.89,,km,00:24:57,0,,13:12,4.5,
 /athletes/89559032,/activities/17548362619,Walk,Lunch Walk,Saranya Perumal,28-02-2026,00:00:00.000+05:30,2,,km,00:20:00,0,,10:00,6,
-/athletes/149076314,/activities/17548148458,Walk,SU-32,Deva Michael,28-02-2026,09:56:00.000+05:30,2.03,,km,00:24:25,0,,12:01,5,
+/athletes/149076314,/activities/17552859386,Walk,Beach,Deva Michael,28-02-2026,18:31:00.000+05:30,1.52,,km,00:26:46,10,,17:36,3.4,
 /athletes/154999907,/activities/17548070340,Run,Nike Run: 15 minutes Threshold Run (Treadmill),Akash Thiagarajan,28-02-2026,09:35:00.000+05:30,2.02,07:34,km,00:15:17,,,07:33,7.9,
 /athletes/126713398,/activities/17548080210,Walk,Day 55.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,28-02-2026,00:00:00.000+05:30,7.39,,km,01:24:00,,,11:22,5.3,
 /athletes/82294600,/activities/17547965555,Run,Morning Run,roojith suresh,28-02-2026,00:00:00.000+05:30,7.85,05:53,km,00:46:14,,,05:53,10.2,
@@ -1750,7 +1748,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/164777816,/activities/17541778266,Walk,Aaptiv Walking: 30 Minute Walk and Work with John,Ashley Blanchard,27-02-2026,00:00:00.000+05:30,1.6,,km,00:31:55,0,,19:56,3,
 /athletes/203306086,/activities/17541740516,Walk,Evening Walk,Tushar Anand,27-02-2026,00:00:00.000+05:30,2.9,,km,00:53:59,14,,18:36,3.2,
 /athletes/206880030,/activities/17541665826,Walk,Evening walk,Tithi Mehta,27-02-2026,00:00:00.000+05:30,3.49,,km,00:47:41,87,,13:39,4.4,
-/athletes/149076314,/activities/17541435224,Walk,SU-31,Deva Michael,27-02-2026,18:54:00.000+05:30,2.09,,km,00:29:54,0,,14:18,4.2,
+/athletes/149076314,/activities/17548148458,Walk,SU-32,Deva Michael,28-02-2026,09:56:00.000+05:30,2.03,,km,00:24:25,0,,12:01,5,
 /athletes/165644455,/activities/17541170872,Walk,Morning Walk,Linsey Matthews Amundson,27-02-2026,00:00:00.000+05:30,1.23,,km,00:16:08,,,13:06,4.6,
 /athletes/34316388,/activities/17547179675,Run,Evening Run,Raja K,27-02-2026,00:00:00.000+05:30,1.74,10:49,km,00:18:55,,,10:52,5.5,
 /athletes/6311222,/activities/17540854629,Run,Afternoon Run,Aravind Vijayasarathy,27-02-2026,00:00:00.000+05:30,3.79,08:25,km,00:31:53,,,08:24,7.1,
@@ -1760,7 +1758,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/6311222,/activities/17538389256,Walk,Afternoon Walk,Aravind Vijayasarathy,27-02-2026,00:00:00.000+05:30,2.24,,km,00:21:37,,,09:39,6.2,
 /athletes/82294600,/activities/17537863946,Run,Morning Run,roojith suresh,27-02-2026,00:00:00.000+05:30,9.01,05:52,km,00:52:53,,,05:52,10.2,
 /athletes/6311222,/activities/17537671679,Walk,Morning Walk,Aravind Vijayasarathy,27-02-2026,00:00:00.000+05:30,1.59,,km,00:15:40,,,09:51,6.1,
-/athletes/149076314,/activities/17537457312,Walk,Recovering but can't stop,Deva Michael,27-02-2026,08:29:00.000+05:30,6.06,,km,00:56:02,7,,09:14,6.5,
+/athletes/149076314,/activities/17563641776,Walk,SU-33,Deva Michael,01-03-2026,16:42:00.000+05:30,4.02,,km,00:47:03,8,,11:42,5.1,
 /athletes/165741895,/activities/17537413370,Walk,Day 54/90,Hemanath Gopal,27-02-2026,00:00:00.000+05:30,2.22,,km,00:25:41,9,,11:34,5.2,
 /athletes/164769037,/activities/17537301915,Walk,Mw,Aravind Kulasekhar Vankayala,27-02-2026,00:00:00.000+05:30,5.44,,km,01:04:00,,,11:45,5.1,
 /athletes/108978639,/activities/17537064869,Run,Morning Run,Suriya Dileepan,27-02-2026,00:00:00.000+05:30,8.63,05:48,km,00:50:04,,,05:48,10.3,
@@ -1774,7 +1772,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/154999907,/activities/17603386665,Walk,Night Walk,Akash Thiagarajan,04-03-2026,21:45:00.000+05:30,6.1,,km,01:17:00,0,,12:37,4.8,
 /athletes/134023953,/activities/17603332753,Walk,Night Walk,Vignesh Sivashankar Bala,04-03-2026,00:00:00.000+05:30,3.5,,km,00:41:43,15,,11:55,5,
 /athletes/165741895,/activities/17602700771,Walk,Day 59/60,Hemanath Gopal,04-03-2026,00:00:00.000+05:30,2.98,,km,00:46:11,0,,15:29,3.9,
-/athletes/149076314,/activities/17602154415,Walk,One more,Deva Michael,04-03-2026,21:10:00.000+05:30,1.39,,km,00:20:40,0,,14:52,4,
+/athletes/149076314,/activities/17575826724,Walk,One more,Deva Michael,02-03-2026,18:56:00.000+05:30,1.4,,km,00:19:01,0,,13:35,4.4,
 /athletes/206880030,/activities/17601885575,Walk,Evening walk,Tithi Mehta,04-03-2026,00:00:00.000+05:30,1.66,,km,00:22:44,31,,13:41,4.4,
 /athletes/203306086,/activities/17601732631,Walk,Evening Walk,Tushar Anand,04-03-2026,00:00:00.000+05:30,4.16,,km,00:53:57,15,,12:58,4.6,
 /athletes/149156947,/activities/17601717589,Walk,Evening Walk,Manjaree Pandey,04-03-2026,00:00:00.000+05:30,3.22,,km,00:39:20,,,12:12,4.9,
@@ -1782,7 +1780,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/75711980,/activities/17609271409,Walk,Evening Walk,Sricharan Sriram,04-03-2026,00:00:00.000+05:30,7.01,,km,01:09:00,31,,09:50,6.1,
 /athletes/149143255,/activities/17601454472,Walk,Round ✌️,Bhavana B,04-03-2026,20:02:00.000+05:30,1.66,,km,00:22:27,,,13:31,4.4,
 /athletes/207602158,/activities/17600925392,Walk,Evening walk,VIKRAMADITYA SHRIVASTAVA,04-03-2026,00:00:00.000+05:30,4.74,,km,00:44:10,19,,09:19,6.4,
-/athletes/149076314,/activities/17600514922,Walk,SU-36,Deva Michael,04-03-2026,18:00:00.000+05:30,4.05,,km,00:57:34,11,,14:12,4.2,
+/athletes/149076314,/activities/17575231409,Walk,SU-34,Deva Michael,02-03-2026,17:25:00.000+05:30,4.13,,km,00:52:16,10,,12:39,4.7,
 /athletes/154999907,/activities/17600480293,Run,Nike Run: 20 minutes Easy Run (Treadmill),Akash Thiagarajan,04-03-2026,18:32:00.000+05:30,2.2,10:10,km,00:22:23,,,10:10,5.9,
 /athletes/41447383,/activities/17600434915,Walk,Evening Walk,Vijay Krishnan Ganesan,04-03-2026,00:00:00.000+05:30,2.71,,km,00:27:19,,,10:04,6,
 /athletes/199140685,/activities/17600436096,Walk,Between Steps and Sips,Vishwa B,04-03-2026,18:22:00.000+05:30,1.48,,km,00:15:43,8,,10:37,5.7,
@@ -1856,8 +1854,8 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/203306086,/activities/17576668615,Walk,Evening Walk,Tushar Anand,02-03-2026,00:00:00.000+05:30,1.6,,km,00:25:27,15,,15:54,3.8,
 /athletes/75711980,/activities/17576491473,Walk,Evening Walk,Sricharan Sriram,02-03-2026,00:00:00.000+05:30,4,,km,00:40:51,14,,10:12,5.9,
 /athletes/150499600,/activities/17576053677,Walk,Morning Walk,Maithili Phalke,02-03-2026,00:00:00.000+05:30,4.09,,km,00:57:31,,,14:03,4.3,
-/athletes/149076314,/activities/17575826724,Walk,One more,Deva Michael,02-03-2026,18:56:00.000+05:30,1.4,,km,00:19:01,0,,13:35,4.4,
-/athletes/149076314,/activities/17575231409,Walk,SU-34,Deva Michael,02-03-2026,17:25:00.000+05:30,4.13,,km,00:52:16,10,,12:39,4.7,
+/athletes/149076314,/activities/17602154415,Walk,One more,Deva Michael,04-03-2026,21:10:00.000+05:30,1.39,,km,00:20:40,0,,14:52,4,
+/athletes/149076314,/activities/17600514922,Walk,SU-36,Deva Michael,04-03-2026,18:00:00.000+05:30,4.05,,km,00:57:34,11,,14:12,4.2,
 /athletes/89559032,/activities/17575032473,Walk,Afternoon Walk,Saranya Perumal,02-03-2026,00:00:00.000+05:30,2.2,,km,00:22:02,0,,10:00,6,
 /athletes/199140685,/activities/17574085088,Walk,Evening Walk,Vishwa B,02-03-2026,15:38:00.000+05:30,3.49,,km,00:42:13,6,,12:05,5,
 /athletes/126713398,/activities/17574691883,Walk,Day 57.2,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,02-03-2026,00:00:00.000+05:30,2.5,,km,00:28:28,,,11:23,5.3,
@@ -1888,7 +1886,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/6311222,/activities/17649372121,Run,Evening Run,Aravind Vijayasarathy,08-03-2026,00:00:00.000+05:30,3.44,08:42,km,00:29:57,,,08:42,6.9,
 /athletes/206880030,/activities/17648811635,Walk,Evening walk,Tithi Mehta,08-03-2026,00:00:00.000+05:30,2.49,,km,00:39:19,35,,15:47,3.8,
 /athletes/89559032,/activities/17648525571,Walk,Afternoon Walk,Saranya Perumal,08-03-2026,00:00:00.000+05:30,5,,km,01:02:00,0,,12:24,4.8,
-/athletes/149076314,/activities/17648526525,Walk,The run for the BMF Charles Olivera.,Deva Michael,08-03-2026,17:20:00.000+05:30,10.1,,km,01:34:00,18,,09:18,6.4,
+/athletes/149076314,/activities/17612998850,Walk,SU-37,Deva Michael,05-03-2026,18:34:00.000+05:30,2.04,,km,00:24:34,6,,12:02,5,
 /athletes/34748435,/activities/17648279195,Walk,Afternoon Walk,Vivek Rajendran,08-03-2026,00:00:00.000+05:30,2.02,,km,00:23:30,,,11:38,5.2,
 /athletes/199595164,/activities/17648215282,Walk,Afternoon Walk,Elango Subramaniam,08-03-2026,00:00:00.000+05:30,2.4,,km,00:31:49,9,,13:15,4.5,
 /athletes/164769037,/activities/17647779521,Walk,Ew,Aravind Kulasekhar Vankayala,08-03-2026,00:00:00.000+05:30,3.13,,km,00:48:39,,,15:32,3.9,
@@ -1906,7 +1904,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/75711980,/activities/17638988538,Walk,Night Walk,Sricharan Sriram,07-03-2026,00:00:00.000+05:30,8.01,,km,01:14:00,35,,09:14,6.5,
 /athletes/134023953,/activities/17638972136,Walk,Evening Walk,Vignesh Sivashankar Bala,07-03-2026,00:00:00.000+05:30,4.52,,km,00:53:33,7,,11:50,5.1,
 /athletes/34748435,/activities/17638673694,Walk,Night Walk,Vivek Rajendran,07-03-2026,00:00:00.000+05:30,2.11,,km,00:27:50,,,13:11,4.5,
-/athletes/149076314,/activities/17636626582,Walk,SU-39,Deva Michael,07-03-2026,19:25:00.000+05:30,2.04,,km,00:28:04,0,,13:45,4.4,
+/athletes/149076314,/activities/17625165118,Walk,One more round,Deva Michael,06-03-2026,19:23:00.000+05:30,4.03,,km,00:52:15,7,,12:57,4.6,
 /athletes/154999907,/activities/17636449065,Walk,Evening Walk,Akash Thiagarajan,07-03-2026,18:18:00.000+05:30,5.2,,km,01:20:00,0,,15:23,3.9,
 /athletes/203306086,/activities/17636362025,Walk,Evening Walk,Tushar Anand,07-03-2026,00:00:00.000+05:30,3.81,,km,01:11:00,20,,18:38,3.2,
 /athletes/207602158,/activities/17636257624,Walk,Evening walk,VIKRAMADITYA SHRIVASTAVA,07-03-2026,00:00:00.000+05:30,4.33,,km,00:41:47,21,,09:38,6.2,
@@ -1943,7 +1941,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/75711980,/activities/17625856582,Walk,Evening Walk,Sricharan Sriram,06-03-2026,00:00:00.000+05:30,5,,km,00:46:28,35,,09:17,6.5,
 /athletes/206880030,/activities/17625698188,Walk,Evening walk,Tithi Mehta,06-03-2026,00:00:00.000+05:30,2.48,,km,00:37:31,59,,15:07,4,
 /athletes/149156947,/activities/17640118685,Walk,Evening Walk,Manjaree Pandey,06-03-2026,00:00:00.000+05:30,,,,00:31:00,0,,,,
-/athletes/149076314,/activities/17625165118,Walk,One more round,Deva Michael,06-03-2026,19:23:00.000+05:30,4.03,,km,00:52:15,7,,12:57,4.6,
+/athletes/149076314,/activities/17620612761,Walk,SU-38,Deva Michael,06-03-2026,08:04:00.000+05:30,6.04,,km,01:05:00,5,,10:45,5.6,
 /athletes/125149455,/activities/17625052595,Walk,Evening Walk,Neeraja R,06-03-2026,00:00:00.000+05:30,4.15,,km,00:42:09,,,10:09,5.9,
 /athletes/203306086,/activities/17625008658,Walk,Evening Walk,Tushar Anand,06-03-2026,00:00:00.000+05:30,1.56,,km,00:25:30,7,,16:20,3.7,
 /athletes/165644455,/activities/17624968081,Walk,Morning Walk,Linsey Matthews Amundson,06-03-2026,00:00:00.000+05:30,1.45,,km,00:11:11,,,07:42,7.8,
@@ -1957,7 +1955,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/6311222,/activities/17620775201,Walk,Morning Walk,Aravind Vijayasarathy,06-03-2026,00:00:00.000+05:30,1.54,,km,00:16:04,,,10:25,5.8,
 /athletes/165741895,/activities/17620742559,Walk,Day 61/90,Hemanath Gopal,06-03-2026,00:00:00.000+05:30,1.77,,km,00:29:54,9,,16:53,3.6,
 /athletes/34748435,/activities/17620629276,Walk,Morning Walk,Vivek Rajendran,06-03-2026,00:00:00.000+05:30,1.33,,km,00:15:31,,,11:39,5.1,
-/athletes/149076314,/activities/17620612761,Walk,SU-38,Deva Michael,06-03-2026,08:04:00.000+05:30,6.04,,km,01:05:00,5,,10:45,5.6,
+/athletes/149076314,/activities/17636626582,Walk,SU-39,Deva Michael,07-03-2026,19:25:00.000+05:30,2.04,,km,00:28:04,0,,13:45,4.4,
 /athletes/164769037,/activities/17620579979,Walk,Smw,Aravind Kulasekhar Vankayala,06-03-2026,00:00:00.000+05:30,2.12,,km,00:40:49,,,19:15,3.1,
 /athletes/199595164,/activities/17620406216,Walk,Morning Walk,Elango Subramaniam,06-03-2026,00:00:00.000+05:30,1.48,,km,00:18:36,8,,12:34,4.8,
 /athletes/165406158,/activities/17620208753,Walk,Evening Walk,Nikhil Chopra,05-03-2026,20:33:00.000+05:30,0.5,,km,00:10:01,0,,20:02,3,
@@ -1977,7 +1975,7 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/2047537943,/activities/17613174341,Walk,Evening Walk,Akalya Anand,05-03-2026,00:00:00.000+05:30,3.73,,km,00:40:02,0,,10:43,5.6,
 /athletes/199595164,/activities/17620212083,Walk,Evening Walk,Elango Subramaniam,05-03-2026,00:00:00.000+05:30,4.13,,km,00:35:58,3,,08:42,6.9,
 /athletes/165644455,/activities/17613104719,Walk,Morning Walk,Linsey Matthews Amundson,05-03-2026,00:00:00.000+05:30,2.24,,km,00:21:14,,,09:28,6.3,
-/athletes/149076314,/activities/17612998850,Walk,SU-37,Deva Michael,05-03-2026,18:34:00.000+05:30,2.04,,km,00:24:34,6,,12:02,5,
+/athletes/149076314,/activities/17648526525,Walk,The run for the BMF Charles Olivera.,Deva Michael,08-03-2026,17:20:00.000+05:30,10.1,,km,01:34:00,18,,09:18,6.4,
 /athletes/6311222,/activities/17613821148,Run,Afternoon Run,Aravind Vijayasarathy,05-03-2026,00:00:00.000+05:30,5.75,09:20,km,00:53:46,,,09:21,6.4,
 /athletes/164777816,/activities/17612883162,Run,Aaptiv Outdoor Running: Stay Connected to Breath  with Jaime,Ashley Blanchard,05-03-2026,00:00:00.000+05:30,4.82,06:47,km,00:32:46,,,06:47,8.8,
 /athletes/149084864,/activities/17612706375,Walk,Thursday evening walk,Jaidiya Jeyakar,05-03-2026,00:00:00.000+05:30,2,,km,00:24:35,,,12:17,4.9,
@@ -1993,3 +1991,197 @@ Athlete,Activity," ""Type""",Location,Name,Date,Hrs,Distance,Pace,Unit,Duration,
 /athletes/6311222,/activities/17608992039,Run,Morning Run,Aravind Vijayasarathy,05-03-2026,00:00:00.000+05:30,7.37,08:09,km,01:00:00,,,08:08,7.4,
 /athletes/199595164,/activities/17608682842,Walk,Morning Walk,Elango Subramaniam,05-03-2026,00:00:00.000+05:30,1.56,,km,00:20:20,9,,13:02,4.6,
 /athletes/164769037,/activities/17608509685,Walk,Smw,Aravind Kulasekhar Vankayala,05-03-2026,00:00:00.000+05:30,1.89,,km,00:22:36,,,11:57,5,
+/athletes/34748435,/activities/17693121724,Walk,Lunch Walk,Vivek Rajendran,12-03-2026,00:00:00.000+05:30,1,,km,00:12:02,,,12:01,5,
+/athletes/6311222,/activities/17692885985,Run,Morning Run,Aravind Vijayasarathy,12-03-2026,00:00:00.000+05:30,5.77,09:22,km,00:54:04,,,09:22,6.4,
+/athletes/134023953,/activities/17692817597,Walk,Morning Walk,Vignesh Sivashankar Bala,12-03-2026,00:00:00.000+05:30,1.67,,km,00:19:44,4,,11:48,5.1,
+/athletes/154999907,/activities/17692722101,Walk,Morning walk,Akash Thiagarajan,12-03-2026,08:25:00.000+05:30,3,,km,00:44:46,0,,14:55,4,
+/athletes/165741895,/activities/17692679106,Walk,Day 67/90,Hemanath Gopal,12-03-2026,00:00:00.000+05:30,2.6,,km,00:31:52,11,,12:15,4.9,
+/athletes/164769037,/activities/17692631771,Walk,Mw,Aravind Kulasekhar Vankayala,12-03-2026,00:00:00.000+05:30,5.93,,km,01:11:00,,,11:58,5,
+/athletes/149076314,/activities/17661496497,Walk,SU-40,Deva Michael,09-03-2026,21:32:00.000+05:30,2.09,,km,00:29:26,0,,14:04,4.3,
+/athletes/199595164,/activities/17692594923,Walk,Morning Walk,Elango Subramaniam,12-03-2026,00:00:00.000+05:30,1.74,,km,00:22:34,8,,12:58,4.6,
+/athletes/149075101,/activities/17692568783,Walk,Morning Walk,Pallavi Pandey,12-03-2026,00:00:00.000+05:30,3.25,,km,00:38:27,,,11:49,5.1,
+/athletes/34748435,/activities/17688489763,Walk,Night Walk,Vivek Rajendran,11-03-2026,00:00:00.000+05:30,2.14,,km,00:28:28,,,13:18,4.5,
+/athletes/112099775,/activities/17688057008,Walk,Day 65,Apoorv Jain,11-03-2026,00:00:00.000+05:30,2.13,,km,00:28:03,3,,13:10,4.6,
+/athletes/134023953,/activities/17687505507,Walk,Night Walk,Vignesh Sivashankar Bala,11-03-2026,00:00:00.000+05:30,6.38,,km,01:13:00,10,,11:26,5.2,
+/athletes/203306086,/activities/17686683342,Walk,Night Walk,Tushar Anand,11-03-2026,00:00:00.000+05:30,2.18,,km,00:33:19,13,,15:16,3.9,
+/athletes/89559032,/activities/17686637945,Walk,Night Walk,Saranya Perumal,11-03-2026,00:00:00.000+05:30,2.2,,km,00:24:03,0,,10:55,5.5,
+/athletes/6311222,/activities/17693498581,Run,Afternoon Run,Aravind Vijayasarathy,11-03-2026,00:00:00.000+05:30,7.03,08:51,km,01:02:00,,,08:49,6.8,
+/athletes/149076314,/activities/17659587241,Walk,Light,Deva Michael,09-03-2026,18:34:00.000+05:30,1.07,,km,00:15:24,0,,14:23,4.2,
+/athletes/34316388,/activities/17684740352,Run,Afternoon Run,Raja K,11-03-2026,00:00:00.000+05:30,3.3,10:01,km,00:33:05,,,10:01,6,
+/athletes/199595164,/activities/17684419019,Walk,Afternoon Walk,Elango Subramaniam,11-03-2026,00:00:00.000+05:30,2.01,,km,00:27:09,11,,13:30,4.4,
+/athletes/108978639,/activities/17684350567,Run,Afternoon Run,Suriya Dileepan,11-03-2026,00:00:00.000+05:30,6.32,05:52,km,00:37:03,,,05:51,10.2,
+/athletes/6311222,/activities/17683897343,Walk,Afternoon Walk,Aravind Vijayasarathy,11-03-2026,00:00:00.000+05:30,1.31,,km,00:15:11,,,11:35,5.2,
+/athletes/165644455,/activities/17684410856,Hike,Morning Hike,Linsey Matthews Amundson,11-03-2026,00:00:00.000+05:30,2.12,,km,00:26:55,28,,12:41,4.7,
+/athletes/134023953,/activities/17682676704,Walk,Afternoon Walk,Vignesh Sivashankar Bala,11-03-2026,00:00:00.000+05:30,3.62,,km,00:43:31,13,,12:01,5,
+/athletes/126713398,/activities/17683727285,Walk,Afternoon Walk,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,11-03-2026,00:00:00.000+05:30,2.21,,km,00:24:31,,,11:05,5.4,
+/athletes/6311222,/activities/17681924253,Walk,Afternoon Walk,Aravind Vijayasarathy,11-03-2026,00:00:00.000+05:30,2.32,,km,00:23:52,,,10:17,5.8,
+/athletes/82294600,/activities/17681782754,Run,Lunch Run,roojith suresh,11-03-2026,00:00:00.000+05:30,8.01,05:35,km,00:44:48,,,05:35,10.7,
+/athletes/199140685,/activities/17680943004,Walk,Morning Walk,Vishwa B,11-03-2026,09:32:00.000+05:30,3.73,,km,00:32:56,13,,08:49,6.8,
+/athletes/6311222,/activities/17680928136,Walk,Morning Walk,Aravind Vijayasarathy,11-03-2026,00:00:00.000+05:30,1.41,,km,00:13:39,,,09:40,6.2,
+/athletes/149076314,/activities/17674111073,Walk,One more,Deva Michael,10-03-2026,21:25:00.000+05:30,1.68,,km,00:25:50,0,,15:22,3.9,
+/athletes/154999907,/activities/17681477243,Walk,Morning walk,Akash Thiagarajan,11-03-2026,07:45:00.000+05:30,5.3,,km,01:13:00,0,,13:46,4.4,
+/athletes/165741895,/activities/17680689570,Walk,Day 66/90,Hemanath Gopal,11-03-2026,00:00:00.000+05:30,2.58,,km,00:32:11,11,,12:28,4.8,
+/athletes/199595164,/activities/17680645585,Walk,Morning Walk,Elango Subramaniam,11-03-2026,00:00:00.000+05:30,1.76,,km,00:19:24,8,,11:01,5.4,
+/athletes/164769037,/activities/17680577773,Walk,Mw,Aravind Kulasekhar Vankayala,11-03-2026,00:00:00.000+05:30,5.77,,km,01:01:00,,,10:34,5.7,
+/athletes/126713398,/activities/17680285677,Run,Day 66.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,11-03-2026,00:00:00.000+05:30,5.1,09:49,km,00:50:06,,,09:49,6.1,
+/athletes/165406158,/activities/17679076257,Run,Evening Run,Nikhil Chopra,10-03-2026,18:27:00.000+05:30,6.83,06:49,km,00:46:35,,,06:49,8.8,
+/athletes/34748435,/activities/17676157106,Walk,Night Walk,Vivek Rajendran,10-03-2026,00:00:00.000+05:30,2.15,,km,00:25:02,,,11:38,5.2,
+/athletes/112099775,/activities/17676081852,Walk,Day 64,Apoorv Jain,10-03-2026,00:00:00.000+05:30,2.92,,km,00:42:39,19,,14:36,4.1,
+/athletes/134023953,/activities/17675713597,Walk,Night Walk,Vignesh Sivashankar Bala,10-03-2026,00:00:00.000+05:30,4.34,,km,00:49:58,12,,11:30,5.2,
+/athletes/89559032,/activities/17675115657,Walk,Night Walk,Saranya Perumal,10-03-2026,00:00:00.000+05:30,3.1,,km,00:31:00,0,,10:00,6,
+/athletes/75711980,/activities/17674743905,Walk,Throughout heaven and earth i alone am the inconsistent one,Sricharan Sriram,10-03-2026,00:00:00.000+05:30,8.04,,km,01:17:00,31,,09:34,6.3,
+/athletes/149156947,/activities/17674737769,Walk,Night Walk,Manjaree Pandey,10-03-2026,00:00:00.000+05:30,4,,km,00:50:00,0,,12:30,4.8,
+/athletes/166129376,/activities/17674349067,Walk,Night Walk,Arpita Samantara,10-03-2026,00:00:00.000+05:30,2.84,,km,00:37:38,,,13:15,4.5,
+/athletes/199595164,/activities/17674229937,Walk,Night Walk,Elango Subramaniam,10-03-2026,00:00:00.000+05:30,0.37,,km,00:09:38,0,,26:02:00,2.3,
+/athletes/149076314,/activities/17671751066,Walk,SU-41,Deva Michael,10-03-2026,17:48:00.000+05:30,1.03,,km,00:14:48,0,,14:22,4.2,
+/athletes/165741895,/activities/17673987309,Walk,Day 65/90,Hemanath Gopal,10-03-2026,00:00:00.000+05:30,3.06,,km,00:39:20,7,,12:51,4.7,
+/athletes/206880030,/activities/17673010248,Walk,Evening walk,Tithi Mehta,10-03-2026,00:00:00.000+05:30,0.16,,km,00:01:53,0,,11:46,5.1,
+/athletes/203306086,/activities/17672922151,Walk,Evening Walk,Tushar Anand,10-03-2026,00:00:00.000+05:30,2.7,,km,00:47:46,13,,17:41,3.4,
+/athletes/207602158,/activities/17672504386,Walk,Evening walk,VIKRAMADITYA SHRIVASTAVA,10-03-2026,00:00:00.000+05:30,2.85,,km,00:27:39,9,,09:42,6.2,
+/athletes/34316388,/activities/17672135432,Run,Afternoon Run,Raja K,10-03-2026,00:00:00.000+05:30,5.05,09:54,km,00:50:03,,,09:54,6.1,
+/athletes/149084864,/activities/17671926043,Walk,Tuesday evening walk,Jaidiya Jeyakar,10-03-2026,00:00:00.000+05:30,2,,km,00:24:51,,,12:25,4.8,
+/athletes/149076314,/activities/17684697366,Walk,Slow,Deva Michael,11-03-2026,18:16:00.000+05:30,1.03,,km,00:14:53,0,,14:26,4.2,
+/athletes/108978639,/activities/17671581703,Run,Afternoon Run,Suriya Dileepan,10-03-2026,00:00:00.000+05:30,10.01,05:04,km,00:50:48,,,05:04,11.8,
+/athletes/126713398,/activities/17669694303,Walk,Day 65.2,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,10-03-2026,00:00:00.000+05:30,2.24,,km,00:26:35,,,11:52,5.1,
+/athletes/164769037,/activities/17667788388,Walk,Mw,Aravind Kulasekhar Vankayala,10-03-2026,00:00:00.000+05:30,7.5,,km,01:34:00,,,12:31,4.8,
+/athletes/199140685,/activities/17667559910,Walk,Morning Walk,Vishwa B,10-03-2026,06:14:00.000+05:30,2.01,,km,00:27:39,10,,13:45,4.4,
+/athletes/126713398,/activities/17667609979,Run,Day 65.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,10-03-2026,00:00:00.000+05:30,4.07,09:46,km,00:39:47,,,09:46,6.1,
+/athletes/172679553,/activities/17666903958,Run,Evening Run,Sebastian Cwalina,09-03-2026,00:00:00.000+05:30,7.45,06:28,km,00:48:09,,,06:27,9.3,
+/athletes/165406158,/activities/17666629846,Walk,Evening Walk,Nikhil Chopra,09-03-2026,19:12:00.000+05:30,3.46,,km,00:41:52,,,12:06,5,
+/athletes/165406158,/activities/17666741685,Walk,Evening Walk,Nikhil Chopra,09-03-2026,19:15:00.000+05:30,,,,00:35:59,,94,,,
+/athletes/165406158,/activities/17665986450,unknown,Afternoon Run,Nikhil Chopra,09-03-2026,00:00:00.000+05:30,15.05,05:59,km,01:29:00,,,05:54,10.1,
+/athletes/165406158,/activities/17665987512,unknown,Afternoon Run,Nikhil Chopra,09-03-2026,00:00:00.000+05:30,15.27,05:56,km,01:30:00,,,05:53,10.2,
+/athletes/164777816,/activities/17663860953,Walk,Aaptiv Walking: Step Into Serenity with Jaime,Ashley Blanchard,09-03-2026,00:00:00.000+05:30,1.61,,km,00:14:28,0,,08:59,6.7,
+/athletes/164777816,/activities/17663681804,Walk,Aaptiv Walking: Habitual Stroll with Jaime,Ashley Blanchard,09-03-2026,00:00:00.000+05:30,1.6,,km,00:12:55,0,,08:04,7.4,
+/athletes/34748435,/activities/17663292613,Walk,Night Walk,Vivek Rajendran,09-03-2026,00:00:00.000+05:30,2.1,,km,00:24:18,,,11:34,5.2,
+/athletes/112099775,/activities/17662991876,Walk,Day 63,Apoorv Jain,09-03-2026,00:00:00.000+05:30,2.06,,km,00:27:05,7,,13:08,4.6,
+/athletes/134023953,/activities/17662546891,Walk,Night Walk,Vignesh Sivashankar Bala,09-03-2026,00:00:00.000+05:30,4.38,,km,00:50:26,12,,11:30,5.2,
+/athletes/154999907,/activities/17661702478,Walk,Night Walk,Akash Thiagarajan,09-03-2026,21:07:00.000+05:30,5.4,,km,01:16:00,0,,14:04,4.3,
+/athletes/149156947,/activities/17663358255,Walk,Night Walk,Manjaree Pandey,09-03-2026,00:00:00.000+05:30,3.7,,km,00:52:00,0,,14:03,4.3,
+/athletes/149076314,/activities/17680844646,Walk,Focused,Deva Michael,11-03-2026,08:32:00.000+05:30,5.06,,km,01:02:00,5,,12:15,4.9,
+/athletes/203306086,/activities/17661330004,Walk,Evening Walk,Tushar Anand,09-03-2026,00:00:00.000+05:30,4.35,,km,00:48:35,17,,11:10,5.4,
+/athletes/75711980,/activities/17661048979,Walk,Night Walk,Sricharan Sriram,09-03-2026,00:00:00.000+05:30,1.41,,km,00:14:16,8,,10:07,5.9,
+/athletes/75711980,/activities/17660901639,Run,Evening Run,Sricharan Sriram,09-03-2026,00:00:00.000+05:30,6,06:02,km,00:36:12,,,06:02,9.9,
+/athletes/89559032,/activities/17660726835,Walk,Evening Walk,Saranya Perumal,09-03-2026,00:00:00.000+05:30,2,,km,00:22:12,0,,11:05,5.4,
+/athletes/165741895,/activities/17660200310,Walk,Day 64/90,Hemanath Gopal,09-03-2026,00:00:00.000+05:30,2.62,,km,00:44:10,10,,16:51,3.6,
+/athletes/149075101,/activities/17660818290,Walk,Evening Walk,Pallavi Pandey,09-03-2026,00:00:00.000+05:30,3.36,,km,00:40:00,,,11:54,5,
+/athletes/199595164,/activities/17660027015,Walk,Evening Walk,Elango Subramaniam,09-03-2026,00:00:00.000+05:30,2,,km,00:27:38,5,,13:48,4.3,
+/athletes/149076314,/activities/17692596064,Walk,Slow,Deva Michael,12-03-2026,08:13:00.000+05:30,1.04,,km,00:15:30,0,,14:54,4,
+/athletes/149084864,/activities/17659519595,Walk,Monday evening walk,Jaidiya Jeyakar,09-03-2026,00:00:00.000+05:30,2.02,,km,00:24:50,,,12:17,4.9,
+/athletes/108978639,/activities/17659078629,Run,Afternoon Run,Suriya Dileepan,09-03-2026,00:00:00.000+05:30,9.02,05:13,km,00:47:03,,,05:12,11.5,
+/athletes/126713398,/activities/17658370283,Walk,Day 64.3,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,09-03-2026,00:00:00.000+05:30,2.34,,km,00:31:35,,,13:29,4.4,
+/athletes/164769600,/activities/17672399549,Walk,Afternoon Walk,Ram Kishore,09-03-2026,00:00:00.000+05:30,1.1,,km,00:16:21,,,14:51,4,
+/athletes/126713398,/activities/17658370146,Walk,Day 64.2,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,09-03-2026,00:00:00.000+05:30,1.48,,km,00:19:26,,,13:07,4.6,
+/athletes/6311222,/activities/17656834279,Walk,Afternoon Walk,Aravind Vijayasarathy,09-03-2026,00:00:00.000+05:30,2.16,,km,00:22:51,,,10:34,5.7,
+/athletes/199140685,/activities/17655967775,Walk,Morning Walk,Vishwa B,09-03-2026,09:19:00.000+05:30,2.36,,km,00:29:01,13,,12:17,4.9,
+/athletes/6311222,/activities/17655953479,Walk,Morning Walk,Aravind Vijayasarathy,09-03-2026,00:00:00.000+05:30,1.45,,km,00:14:32,,,10:01,6,
+/athletes/207602158,/activities/17655790711,Walk,Morning walk,VIKRAMADITYA SHRIVASTAVA,09-03-2026,00:00:00.000+05:30,3.25,,km,00:34:49,12,,10:42,5.6,
+/athletes/15732479,/activities/17655736070,Walk,Morning Walk,Ankita Sarmah,09-03-2026,00:00:00.000+05:30,1.51,,km,00:20:39,,,13:40,4.4,
+/athletes/164769037,/activities/17655690229,Walk,Smw,Aravind Kulasekhar Vankayala,09-03-2026,00:00:00.000+05:30,2.48,,km,00:28:26,,,11:27,5.2,
+/athletes/82294600,/activities/17655625821,Run,Morning Run,roojith suresh,09-03-2026,00:00:00.000+05:30,10.03,06:08,km,01:01:00,,,06:04,9.9,
+/athletes/164769037,/activities/17655565126,Walk,Smw,Aravind Kulasekhar Vankayala,09-03-2026,00:00:00.000+05:30,1.54,,km,00:18:39,,,12:06,5,
+/athletes/126713398,/activities/17655543758,Run,Day 64.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,09-03-2026,00:00:00.000+05:30,3.54,10:08,km,00:35:58,,,10:09,5.9,
+/athletes/107226106,/activities/17653373057,Walk,Weekend walk,Winston .,09-03-2026,00:00:00.000+05:30,5.68,,km,01:03:00,32,,11:05,5.4,
+/athletes/149156947,/activities/17735360009,Walk,Night Walk,Manjaree Pandey,15-03-2026,00:00:00.000+05:30,2.2,,km,00:32:00,0,,14:32,4.1,
+/athletes/154999907,/activities/17735369534,Walk,Night Walk,Akash Thiagarajan,15-03-2026,23:30:00.000+05:30,1.5,,km,00:21:06,0,,14:04,4.3,
+/athletes/134023953,/activities/17735178951,Walk,Night Walk,Vignesh Sivashankar Bala,15-03-2026,00:00:00.000+05:30,2.28,,km,00:29:18,5,,12:51,4.7,
+/athletes/112099775,/activities/17734709073,Walk,Day 69,Apoorv Jain,15-03-2026,00:00:00.000+05:30,1.31,,km,00:17:34,6,,13:24,4.5,
+/athletes/34748435,/activities/17734503243,Walk,Night Walk,Vivek Rajendran,15-03-2026,00:00:00.000+05:30,3.43,,km,00:40:18,,,11:44,5.1,
+/athletes/166129376,/activities/17734402904,Walk,Night Walk,Arpita Samantara,15-03-2026,00:00:00.000+05:30,1.28,,km,00:18:28,,,14:25,4.2,
+/athletes/75711980,/activities/17734371035,Walk,Night Walk,Sricharan Sriram,15-03-2026,00:00:00.000+05:30,6.83,,km,01:04:00,35,,09:22,6.4,
+/athletes/203306086,/activities/17732912813,Walk,Evening Walk,Tushar Anand,15-03-2026,00:00:00.000+05:30,4.84,,km,01:15:00,20,,15:29,3.9,
+/athletes/165741895,/activities/17732167073,Walk,Evening walk,Hemanath Gopal,15-03-2026,00:00:00.000+05:30,4.44,,km,00:54:42,10,,12:19,4.9,
+/athletes/199140685,/activities/17731902810,Walk,Night Walk,Vishwa B,15-03-2026,18:37:00.000+05:30,2,,km,00:26:52,8,,13:26,4.5,
+/athletes/149076314,/activities/17708858465,Walk,Slow,Deva Michael,13-03-2026,20:26:00.000+05:30,1.2,,km,00:15:26,0,,12:51,4.7,
+/athletes/89559032,/activities/17730925259,Walk,Afternoon Walk,Saranya Perumal,15-03-2026,00:00:00.000+05:30,4,,km,00:46:16,0,,11:33,5.2,
+/athletes/6311222,/activities/17730760859,Run,Afternoon Run,Aravind Vijayasarathy,15-03-2026,00:00:00.000+05:30,12.34,07:28,km,01:32:00,,,07:27,8,
+/athletes/206880030,/activities/17730450518,Walk,Walk,Tithi Mehta,15-03-2026,00:00:00.000+05:30,0.72,,km,00:11:45,5,,16:19,3.7,
+/athletes/34748435,/activities/17730636384,Run,Afternoon Run,Vivek Rajendran,15-03-2026,00:00:00.000+05:30,4.24,07:09,km,00:30:24,,,07:10,8.4,
+/athletes/34748435,/activities/17730635528,Walk,Afternoon Walk,Vivek Rajendran,15-03-2026,00:00:00.000+05:30,2.24,,km,00:23:07,,,10:19,5.8,
+/athletes/134023953,/activities/17726816384,Walk,Lunch Walk,Vignesh Sivashankar Bala,15-03-2026,00:00:00.000+05:30,0.67,,km,00:09:43,3,,14:30,4.1,
+/athletes/199140685,/activities/17726403197,Walk,Morning Walk,Vishwa B,15-03-2026,10:28:00.000+05:30,3.17,,km,00:20:03,5,,06:19,9.5,
+/athletes/164769037,/activities/17726108325,Walk,Mw,Aravind Kulasekhar Vankayala,15-03-2026,00:00:00.000+05:30,5.06,,km,01:01:00,,,12:03,5,
+/athletes/165741895,/activities/17726090518,Walk,Day 70/90,Hemanath Gopal,15-03-2026,00:00:00.000+05:30,2.59,,km,00:31:42,11,,12:14,4.9,
+/athletes/126713398,/activities/17726099170,Walk,Day 70.2,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,15-03-2026,00:00:00.000+05:30,1.56,,km,00:21:52,,,14:01,4.3,
+/athletes/34748435,/activities/17726160814,Run,Morning Run,Vivek Rajendran,15-03-2026,00:00:00.000+05:30,3.27,07:17,km,00:23:51,,,07:17,8.2,
+/athletes/34748435,/activities/17726160649,Walk,Morning Walk,Vivek Rajendran,15-03-2026,00:00:00.000+05:30,2.31,,km,00:25:59,,,11:14,5.3,
+/athletes/126713398,/activities/17726099177,Walk,Day 70.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,15-03-2026,00:00:00.000+05:30,1.67,,km,00:25:30,,,15:16,3.9,
+/athletes/34316388,/activities/17725840358,Run,Morning Run,Raja K,15-03-2026,00:00:00.000+05:30,10.22,08:58,km,01:31:00,,,08:54,6.7,
+/athletes/165406158,/activities/17725047977,Run,Afternoon Run,Nikhil Chopra,14-03-2026,17:20:00.000+05:30,21.12,06:31,km,02:17:00,,,06:29,9.2,
+/athletes/165406158,/activities/17724100291,Run,Afternoon Run,Nikhil Chopra,14-03-2026,17:13:00.000+05:30,0.04,04:57,km,00:00:13,,,05:25,11.1,
+/athletes/165406158,/activities/17724094317,Run,Afternoon Run,Nikhil Chopra,14-03-2026,17:13:00.000+05:30,0.45,06:09,km,00:02:47,,,06:11,9.7,
+/athletes/7402903,/activities/17723942828,Walk,59% of goal️ completed! - Oura,Yannin Puig,14-03-2026,00:00:00.000+05:30,0.16,,km,00:02:15,0,,14:03,4.3,
+/athletes/112099775,/activities/17722873591,Walk,Day 68,Apoorv Jain,14-03-2026,00:00:00.000+05:30,2.34,,km,00:36:03,11,,15:24,3.9,
+/athletes/89559032,/activities/17724489803,Walk,Night Walk,Saranya Perumal,14-03-2026,00:00:00.000+05:30,2,,km,00:25:08,0,,12:33,4.8,
+/athletes/34748435,/activities/17722180400,Walk,Night Walk,Vivek Rajendran,14-03-2026,00:00:00.000+05:30,2.11,,km,00:28:46,,,13:38,4.4,
+/athletes/164777816,/activities/17721421648,Run,Aaptiv Treadmill: Have A Little Faith in YOU with Jaime,Ashley Blanchard,14-03-2026,00:00:00.000+05:30,3.21,09:50,km,00:31:40,,,09:51,6.1,
+/athletes/206880030,/activities/17720954726,Walk,Evening walk,Tithi Mehta,14-03-2026,00:00:00.000+05:30,2.79,,km,00:40:53,69,,14:39,4.1,
+/athletes/149156947,/activities/17722302757,Walk,Evening Walk,Manjaree Pandey,14-03-2026,00:00:00.000+05:30,4.05,,km,00:49:34,,,12:14,4.9,
+/athletes/154999907,/activities/17726062346,Walk,Night Walk,Akash Thiagarajan,14-03-2026,19:30:00.000+05:30,6.1,,km,01:29:00,0,,14:35,4.1,
+/athletes/126713398,/activities/17720622689,Walk,Day 69.2,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,14-03-2026,00:00:00.000+05:30,6.06,,km,01:21:00,,,13:21,4.5,
+/athletes/203306086,/activities/17720099257,Walk,Evening Walk,Tushar Anand,14-03-2026,00:00:00.000+05:30,3.81,,km,00:52:31,22,,13:47,4.4,
+/athletes/6311222,/activities/17730760512,Walk,Evening Walk,Aravind Vijayasarathy,14-03-2026,00:00:00.000+05:30,2.21,,km,00:24:31,,,11:05,5.4,
+/athletes/75711980,/activities/17719696262,Walk,Evening Walk,Sricharan Sriram,14-03-2026,00:00:00.000+05:30,4.03,,km,00:39:07,14,,09:42,6.2,
+/athletes/149143255,/activities/17719558021,Walk,Tea Time,Bhavana B,14-03-2026,18:58:00.000+05:30,1.04,,km,00:22:05,,,21:14,2.8,
+/athletes/199140685,/activities/17719374191,Walk,Evening Walk,Vishwa B,14-03-2026,18:24:00.000+05:30,2.08,,km,00:26:34,5,,12:46,4.7,
+/athletes/149084864,/activities/17719247462,Walk,Saturday evening walk,Jaidiya Jeyakar,14-03-2026,00:00:00.000+05:30,2.02,,km,00:24:31,,,12:08,4.9,
+/athletes/108978639,/activities/17719305483,Run,Afternoon Run,Suriya Dileepan,14-03-2026,00:00:00.000+05:30,12.02,05:58,km,01:11:00,,,05:54,10.2,
+/athletes/134023953,/activities/17718833516,Walk,Afternoon Walk,Vignesh Sivashankar Bala,14-03-2026,00:00:00.000+05:30,1.74,,km,00:24:14,9,,13:55,4.3,
+/athletes/149076314,/activities/17707150799,Walk,Focused,Deva Michael,13-03-2026,16:41:00.000+05:30,5.13,,km,01:02:00,2,,12:05,5,
+/athletes/34748435,/activities/17717638214,Run,Afternoon Run,Vivek Rajendran,14-03-2026,00:00:00.000+05:30,4.31,07:07,km,00:30:42,,,07:07,8.4,
+/athletes/34748435,/activities/17717636529,Walk,Afternoon Walk,Vivek Rajendran,14-03-2026,00:00:00.000+05:30,2.21,,km,00:24:17,,,10:59,5.5,
+/athletes/126713398,/activities/17726099171,Walk,Lunch Walk,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,14-03-2026,00:00:00.000+05:30,1.45,,km,00:19:57,,,13:45,4.4,
+/athletes/201106829,/activities/17727782630,Walk,Indoor walk,Writ Majumdar,14-03-2026,00:00:00.000+05:30,2.57,,km,00:45:20,,192,17:38,3.4,
+/athletes/126713398,/activities/17720600597,Walk,Day 69.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,14-03-2026,00:00:00.000+05:30,0.32,,km,00:04:38,,,14:28,4.1,
+/athletes/154999907,/activities/17714763030,Run,Morning Run (Treadmill),Akash Thiagarajan,14-03-2026,10:34:00.000+05:30,2.5,08:04,km,00:20:10,,,08:03,7.4,
+/athletes/34748435,/activities/17714605854,Walk,Morning Walk,Vivek Rajendran,14-03-2026,00:00:00.000+05:30,3.7,,km,00:41:38,,,11:15,5.3,
+/athletes/164769037,/activities/17714421772,Walk,Mw2,Aravind Kulasekhar Vankayala,14-03-2026,00:00:00.000+05:30,2.4,,km,00:28:48,,,12:00,5,
+/athletes/165741895,/activities/17714350931,Walk,Day 69/90,Hemanath Gopal,14-03-2026,00:00:00.000+05:30,2.59,,km,00:31:58,11,,12:20,4.9,
+/athletes/34748435,/activities/17714303214,Run,Morning Run,Vivek Rajendran,14-03-2026,00:00:00.000+05:30,3.17,06:20,km,00:20:06,,,06:20,9.5,
+/athletes/164769037,/activities/17714259199,Walk,Mw,Aravind Kulasekhar Vankayala,14-03-2026,00:00:00.000+05:30,2.15,,km,00:25:47,,,11:59,5,
+/athletes/34316388,/activities/17713949032,Run,Morning Run,Raja K,14-03-2026,00:00:00.000+05:30,7.02,09:03,km,01:03:00,,,08:58,6.7,
+/athletes/125149455,/activities/17713305296,Walk,Morning Walk,Neeraja R,14-03-2026,00:00:00.000+05:30,2.97,,km,00:42:15,,,14:13,4.2,
+/athletes/165406158,/activities/17712966205,Run,Afternoon Run,Nikhil Chopra,13-03-2026,17:48:00.000+05:30,12.21,05:54,km,01:12:00,,,05:53,10.2,
+/athletes/107226106,/activities/17711614311,Walk,Night walk,Winston .,14-03-2026,00:00:00.000+05:30,5.36,,km,01:00:00,48,,11:11,5.4,
+/athletes/164777816,/activities/17711236039,Walk,Aaptiv Walking: Power Chuckle with Raj,Ashley Blanchard,13-03-2026,00:00:00.000+05:30,1.61,,km,00:15:49,0,,09:49,6.1,
+/athletes/34748435,/activities/17711221101,Walk,Night Walk,Vivek Rajendran,13-03-2026,00:00:00.000+05:30,2.11,,km,00:25:13,,,11:57,5,
+/athletes/112099775,/activities/17711098920,Walk,Day 67,Apoorv Jain,13-03-2026,00:00:00.000+05:30,3.39,,km,00:50:03,12,,14:45,4.1,
+/athletes/149156947,/activities/17710750458,Walk,Night Walk,Manjaree Pandey,13-03-2026,00:00:00.000+05:30,3.5,,km,00:50:00,0,,14:17,4.2,
+/athletes/149075101,/activities/17709706137,Walk,Night Walk,Pallavi Pandey,13-03-2026,00:00:00.000+05:30,4.43,,km,00:50:52,,,11:28,5.2,
+/athletes/199140685,/activities/17709445303,Walk,Night Walk,Vishwa B,13-03-2026,21:20:00.000+05:30,1.57,,km,00:22:30,6,,14:19,4.2,
+/athletes/89559032,/activities/17709345430,Walk,Night Walk,Saranya Perumal,13-03-2026,00:00:00.000+05:30,,,,00:32:04,0,,,,
+/athletes/206880030,/activities/17709164153,Walk,Evening walk,Tithi Mehta,13-03-2026,00:00:00.000+05:30,1.78,,km,00:26:43,39,,15:00,4,
+/athletes/165741895,/activities/17708873650,Walk,Evening walk,Hemanath Gopal,13-03-2026,00:00:00.000+05:30,4.94,,km,01:04:00,13,,12:57,4.6,
+/athletes/149076314,/activities/17717835859,Walk,Slow,Deva Michael,14-03-2026,16:52:00.000+05:30,1.03,,km,00:15:14,0,,14:47,4.1,
+/athletes/149143255,/activities/17708776603,Walk,Weakend,Bhavana B,13-03-2026,20:09:00.000+05:30,1.51,,km,00:22:12,,,14:42,4.1,
+/athletes/203306086,/activities/17708435026,Walk,Evening Walk,Tushar Anand,13-03-2026,00:00:00.000+05:30,3.92,,km,01:07:00,18,,17:05,3.5,
+/athletes/6311222,/activities/17708443611,Run,Evening Run,Aravind Vijayasarathy,13-03-2026,00:00:00.000+05:30,3.72,10:33,km,00:39:15,,,10:33,5.7,
+/athletes/199140685,/activities/17707963462,Walk,Short Walk,Vishwa B,13-03-2026,18:54:00.000+05:30,0.91,,km,00:11:44,0,,12:53,4.7,
+/athletes/149076314,/activities/17731363982,Walk,Focused,Deva Michael,15-03-2026,17:29:00.000+05:30,6.03,,km,01:20:00,0,,13:16,4.5,
+/athletes/6311222,/activities/17708443252,Run,Afternoon Run,Aravind Vijayasarathy,13-03-2026,00:00:00.000+05:30,3.02,08:48,km,00:26:38,,,08:49,6.8,
+/athletes/165644455,/activities/17706863400,Walk,Morning Walk,Linsey Matthews Amundson,13-03-2026,00:00:00.000+05:30,5.55,,km,00:57:20,,,10:19,5.8,
+/athletes/126713398,/activities/17707085413,Walk,Day 68.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,13-03-2026,00:00:00.000+05:30,2.25,,km,00:28:22,,,12:36,4.8,
+/athletes/6311222,/activities/17705115631,Run,Afternoon Run,Aravind Vijayasarathy,13-03-2026,00:00:00.000+05:30,1.33,11:31,km,00:15:24,,,11:34,5.2,
+/athletes/134023953,/activities/17704229928,Walk,Morning Walk,Vignesh Sivashankar Bala,13-03-2026,00:00:00.000+05:30,1.92,,km,00:22:29,6,,11:42,5.1,
+/athletes/165741895,/activities/17704226464,Walk,Day 68/90,Hemanath Gopal,13-03-2026,00:00:00.000+05:30,2.61,,km,00:32:23,11,,12:24,4.8,
+/athletes/112684608,/activities/17704118707,Walk,Morning Walk,Bhavya Rukmini,13-03-2026,00:00:00.000+05:30,6.28,,km,01:15:00,,,11:56,5,
+/athletes/164769037,/activities/17703926151,Walk,Mw,Aravind Kulasekhar Vankayala,13-03-2026,00:00:00.000+05:30,6.38,,km,01:18:00,,,12:13,4.9,
+/athletes/125149455,/activities/17703149512,Walk,Morning Walk,Neeraja R,13-03-2026,00:00:00.000+05:30,7.36,,km,01:59:00,,,16:10,3.7,
+/athletes/203306086,/activities/17707750913,Walk,Evening Walk,Tushar Anand,12-03-2026,00:00:00.000+05:30,2.67,,km,00:42:05,13,,15:45,3.8,
+/athletes/107226106,/activities/17700165290,Walk,Night walk,Winston .,12-03-2026,00:00:00.000+05:30,2.24,,km,00:24:59,3,,11:09,5.4,
+/athletes/112099775,/activities/17699891930,Walk,Day 66,Apoorv Jain,12-03-2026,00:00:00.000+05:30,1.66,,km,00:24:52,6,,14:58,4,
+/athletes/34748435,/activities/17699882412,Walk,Night Walk,Vivek Rajendran,12-03-2026,00:00:00.000+05:30,2.14,,km,00:30:13,,,14:07,4.2,
+/athletes/134023953,/activities/17699859466,Walk,Night Walk,Vignesh Sivashankar Bala,12-03-2026,00:00:00.000+05:30,8.43,,km,01:30:00,16,,10:40,5.6,
+/athletes/166129376,/activities/17699430848,Walk,Evening Walk,Arpita Samantara,12-03-2026,00:00:00.000+05:30,5.24,,km,01:03:00,,,12:01,5,
+/athletes/149156947,/activities/17699254216,Walk,Night Walk,Manjaree Pandey,12-03-2026,00:00:00.000+05:30,3.5,,km,00:50:00,0,,14:17,4.2,
+/athletes/126713398,/activities/17703827972,Walk,Day 67.1,Arulmurugan Vaiyapuri 🏃🏻🇮🇳,12-03-2026,00:00:00.000+05:30,2.04,,km,00:29:21,,,14:23,4.2,
+/athletes/165741895,/activities/17698432086,Walk,Evening walk,Hemanath Gopal,12-03-2026,00:00:00.000+05:30,2.28,,km,00:30:15,9,,13:16,4.5,
+/athletes/89559032,/activities/17698010932,Walk,Evening Walk,Saranya Perumal,12-03-2026,00:00:00.000+05:30,2.3,,km,00:24:40,0,,10:43,5.6,
+/athletes/199140685,/activities/17697718675,Walk,Night Walk,Vishwa B,12-03-2026,20:00:00.000+05:30,3.18,,km,00:38:58,6,,12:15,4.9,
+/athletes/75711980,/activities/17697520216,Run,Evening Run,Sricharan Sriram,12-03-2026,00:00:00.000+05:30,3.01,05:39,km,00:17:02,,,05:39,10.6,
+/athletes/75711980,/activities/17697372005,Run,Evening Run,Sricharan Sriram,12-03-2026,00:00:00.000+05:30,3.72,06:24,km,00:23:50,,,06:24,9.4,
+/athletes/149076314,/activities/17697040280,Walk,Slow,Deva Michael,12-03-2026,19:04:00.000+05:30,1.26,,km,00:18:10,0,,14:25,4.2,
+/athletes/149076314,/activities/17696292532,Walk,SU-42,Deva Michael,12-03-2026,17:24:00.000+05:30,3.06,,km,00:41:54,5,,13:41,4.4,
+/athletes/108978639,/activities/17696395808,Run,Afternoon Run,Suriya Dileepan,12-03-2026,00:00:00.000+05:30,6.44,05:43,km,00:36:52,,,05:43,10.5,
+/athletes/199140685,/activities/17695522215,Walk,Evening Walk,Vishwa B,12-03-2026,16:22:00.000+05:30,1.89,,km,00:23:11,11,,12:15,4.9,
+/athletes/165644455,/activities/17695719263,Hike,Morning Hike,Linsey Matthews Amundson,12-03-2026,00:00:00.000+05:30,1.94,,km,00:26:39,26,,13:44,4.4,
